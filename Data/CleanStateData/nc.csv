@@ -1,0 +1,553 @@
+"","GovUnit","County (1) or Municipality (2)","Population","RecyclingEnforcePersonnel","TipFee","PAYT/SMART","PropertyTax","PerHouseCharge","HHServedTrash","HHServedRecycling","HHServedYard","RecyclingServiceType","TrashServiceType","FoodServiceType","YardWasteServiceType","ProvideTrashCart","ProvRecycleBinorCart","ProvideCompostBins","SolidWasteTons","RecyclingTons","DivertedYardWaste","DisposedYardWaste","UncatYardWaste","State","PopulationDensity","Households","MedIncome","AvgIncome","PctLessHS","PctHS","PctBachelororMore","Gini"
+"1","ABERDEEN","2","8551","No","Yes","No","No","Yes","3739","3739","3739","Curbside","Curbside","None","Curbside","Yes",NA,"No",3032.32,443.19,0,1608.52,0,"NC",842.690114337409,3136,58770,68054,5.6,58.4,36.1,0.3791
+"2","AHOSKIE","2","4844","No","No","No","Yes","Yes","1864","1864","1864","Curbside","Curbside","None","Curbside","Yes",NA,"No",1962.56,148.22,NA,NA,1560,"NC",1100.65601278101,1906,35972,46769,21.5,61.1,17.5,0.4587
+"3","ALAMANCE","2","991","No","No","No","Yes","Yes","390","390","390","Curbside","Curbside","None","Curbside","Yes",NA,"No",369.17,82.95,23,0,0,"NC",1246.33904152781,NA,NA,NA,NA,NA,NA,NA
+"4","ALBEMARLE","2","16437","No","Yes","Yes","Yes","Yes","6238","6238","6238","Both","Curbside","None","Curbside","Yes",NA,"No",6969.61,927.49,5217.69,0,-2833.46,"NC",941.414688924061,6258,44294,58926,15.5,67.3,17.1,0.4707
+"5","ALLIANCE","2","732","No","No","No","No","Yes","809",NA,NA,"None","Curbside","None","None","Yes",NA,"No",247.71,NA,NA,NA,NA,"NC",350.882920362048,440,32500,43882,21.7,72.2,6.2,0.4676
+"6","ANDREWS","2","1663","No","No","No","Yes","Yes","743",NA,NA,"None","Curbside","None","None","Yes",NA,"No",1081.98,NA,NA,NA,NA,"NC",966.14683650748,789,29612,44230,21.1,69.9,9,0.4403
+"7","ANGIER","2","5288","No","Yes","No","No","Yes","3200","3200","3200","Curbside","Curbside","None","Curbside","Yes",NA,"No",2734,324,NA,NA,522,"NC",1652.90803421932,2104,45132,58410,17.4,57,25.6,0.4379
+"8","ANSONVILLE","2","439","No","Yes","No","No","Yes","360",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",298.346500956489,253,43958,57596,23.3,71.6,5.1,0.4511
+"9","APEX","2","59368","Yes","No","No","Yes","Yes","21169","21504","21073","Curbside","Curbside","None","Curbside","Yes",NA,"No",14692.7884,4204.91,7299.37,0,0,"NC",2700.25615033198,19228,112549,133070,2.5,35.2,62.3,0.3823
+"10","ARAPAHOE","2","415","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",191.13813931133,200,67500,82776,13.8,77.9,8.3,0.4864
+"11","ARCHDALE","2","11923","No","No","No","No","Yes","4689","4122","3048","Curbside","Curbside","Backyard","Curbside","Yes",NA,"No",3459,731,NA,NA,405.4,"NC",1349.73265956792,4704,56658,70164,10.9,70.1,19.1,0.3746
+"12","ARCHER LODGE","2","4836","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",533.350234281516,2068,70000,135342,14.1,60.1,25.8,0.5793
+"13","ASHEBORO","2","27191","Yes","No","No","Yes","Yes","8000","8000",NA,"Both","Curbside","None","Curbside","Yes",NA,"No",13502,318,2069,0,NA,"NC",1439.22697718187,10741,37171,48414,21.5,60.6,18,0.4323
+"14","ASHEVILLE","2","94855","Yes","No","No","Yes","Yes","30000","29687","30000","Curbside","Curbside","Backyard","Curbside","Yes",NA,"Yes",24198,9502.76,6898,0,0,"NC",2086.07752753853,39895,53621,75787,7.4,42.7,50,0.4772
+"15","ASKEWVILLE","2","183","No","No","No","Yes","No","100",NA,NA,"None","Curbside","None","None","No",NA,"No",77.48,NA,NA,NA,NA,"NC",309.170814240892,89,36250,55618,9,84.2,6.9,0.4702
+"16","ATKINSON","2","297","No","No","No","No","Yes","172","170",NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",300.055612434131,114,34167,49417,16.5,74.4,9.1,0.4041
+"17","ATLANTIC BEACH","2","1362","No","No","No","Yes","Yes","3047","3075","3047","Both","Curbside","None","Curbside","Yes",NA,"No",1945.6,295.19,119,0,0,"NC",582.282268538707,990,59348,81697,2.9,59.4,37.7,0.4809
+"18","AULANDER","2","760","No","No","No","No","Yes","372",NA,"372","None","Curbside","None","Curbside","No",NA,"No",61.77,NA,NA,NA,80,"NC",514.506963108448,392,42071,53812,26.4,67.9,5.7,0.4029
+"19","AURORA","2","454","No","No","No","No","Yes","258",NA,"258","None","Curbside","None","Curbside","Yes",NA,"No",264,NA,NA,NA,120,"NC",489.127872869348,320,38026,48993,12.3,82.2,5.5,0.4482
+"20","AUTRYVILLE","2","166","Yes","No","No","No","Yes","130",NA,NA,"None","Curbside","None","None","No",NA,"No",96.01,NA,NA,NA,NA,"NC",317.716681724519,80,36000,57971,26.6,60.7,12.7,0.3957
+"21","AYDEN","2","4972","Yes","No","No","Yes","Yes","2002","2002",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",2247.58,139.85,NA,NA,NA,"NC",1303.61569531675,2041,53317,52629,12.3,70.9,16.8,0.4034
+"22","BADIN","2","2024","No","No","No","Yes","No","650",NA,"650",NA,"Curbside","None","Curbside","No",NA,"No",52.55,NA,NA,NA,NA,"NC",1116.46049356139,447,32031,39978,21.2,72.9,5.9,0.4234
+"23","BAILEY","2","568","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",809.191869678103,215,39018,54692,14.4,66.9,18.6,0.3606
+"24","BAKERSVILLE","2","450","No","No","No","Yes","Yes","70",NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",113.1,12.75,NA,NA,0,"NC",592.022541982744,304,53750,77581,17.9,70.2,11.9,0.5303
+"25","BALD HEAD ISLAND","2","270","Yes","No","No","Yes","No","1200","1200","1200","Dropoff","Both","None","Curbside","No",NA,"No",690,210.1,NA,NA,1300,"NC",68.976758166356,NA,NA,NA,NA,NA,NA,NA
+"26","BANNER ELK","2","1046","No","No","No","Yes","Yes","136","43",NA,"Both","Curbside","None","None","No",NA,"No",44.95,42.05,NA,NA,NA,"NC",544.803408103453,352,53750,123028,1.8,44.8,53.5,0.5887
+"27","BATH","2","244","No","No","No","Yes","No","266",NA,"266","None","Curbside","None","Curbside","No",NA,"No",113,NA,0,41.3,0,"NC",683.281812239576,122,52500,89764,3.9,54.6,41.5,0.53
+"28","BAYBORO","2","1160","No","No","No","Yes","Yes","189",NA,NA,"None","Curbside","None","None","Yes",NA,"No",162.36,NA,NA,NA,NA,"NC",626.112845031149,266,35323,39404,17,78.1,4.9,0.4016
+"29","BEAR GRASS","2","89","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",350.963997236094,33,48875,58212,11.7,76.7,11.6,0.3113
+"30","BEAUFORT","2","4457","No","No","No","No","Yes","2532","2532","2532","Curbside","Curbside","None","Curbside","Yes",NA,"No",2140.04,459.22,NA,NA,17109.95,"NC",879.764872820549,2160,36466,51628,9.5,64,26.6,0.4987
+"31","BEECH MOUNTAIN","2","673","Yes","No","No","No","Yes","2152","2152",NA,"Dropoff","Curbside","None","Curbside","No",NA,"No",1584.51,119.72,NA,NA,20.8,"NC",103.847344604167,350,72917,96651,3.2,51.9,44.8,0.4251
+"32","BELHAVEN","2","1406","No","No","No","Yes","Yes","818",NA,"818","Dropoff","Curbside","None","Curbside","Yes",NA,"No",1717,16,367,0,0,"NC",884.018290329948,608,29333,50107,21.1,66.9,12,0.5514
+"33","BELMONT","2","15052","No","No","No","Yes","Yes","6028","6022","6028","Both","Curbside","None","Curbside","Yes",NA,"No",5259.99,921.82,0,654.45,0,"NC",1237.89051599359,4515,73968,112623,9.2,48.7,42.1,0.5338
+"34","BELVILLE","2","2421","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1420.41474061738,1047,66750,71109,9.6,59.7,30.6,0.3239
+"35","BELWOOD","2","859","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",69.8470625065246,365,42119,57859,11.1,79.3,9.5,0.3721
+"36","BENSON","2","3998","No","No","No","Yes","Yes","1714","1200","1714","Curbside","Curbside","None","Curbside","Yes",NA,"No",1189.76,287.56,NA,NA,305.76,"NC",1425.37132254782,1433,45268,55560,17.5,56.3,26.2,0.4969
+"37","BERMUDA RUN","2","3128","No","No","No","Yes","No","1535",NA,NA,"None","Curbside","None","None","Yes",NA,"No",1590.7,NA,NA,NA,NA,"NC",1253.56470351324,1430,71082,87052,1.1,54.5,44.4,0.3781
+"38","BESSEMER CITY","2","5444","No","No","No","No","Yes","2231",NA,"2231","None","Curbside","None","Curbside","Yes",NA,"No",2634.34,NA,704,0,0,"NC",1041.86497820773,1882,39055,51762,24.7,66.5,9,0.4128
+"39","BETHANIA","2","345","No","No","No","Yes","No","179","179",NA,"Curbside","Curbside","None","None","Yes",NA,"No",150.15,52,NA,NA,NA,"NC",508.467323222647,155,70656,115066,9.8,64.8,25.3,0.4958
+"40","BETHEL","2","1371","No","No","No","No","Yes","654",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1302.78797709613,842,42500,53834,18.7,61.7,19.6,0.4537
+"41","BEULAVILLE","2","1106","No","No","No","No","Yes","675","675","675","Curbside","Curbside","None","Curbside","No",NA,"No",1131.94,31.06,64.25,0,0,"NC",716.14818390618,785,32358,50773,17.8,62.2,20.1,0.5096
+"42","BILTMORE FOREST","2","1413","No","No","No","Yes","No","689","689","689","Curbside","Curbside","None","Curbside","Yes",NA,"No",404.97,222.03,NA,NA,2010,"NC",485.547451550297,588,164000,316620,0.4,15.3,84.3,0.5615
+"43","BISCOE","2","1847","No","No","No","Yes","No","908",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",1124.06,NA,0,53.59,0,"NC",685.653633730843,826,44792,50895,27.7,55.4,17,0.3465
+"44","BLACK CREEK","2","691","No","No","No","No","Yes","416","416","343","Curbside","Curbside","None","Curbside","Yes",NA,"No",492.88,46.13,36,0,0,"NC",974.200746194797,317,49219,56631,15,78,7.1,0.3887
+"45","BLACK MOUNTAIN","2","8450","No","No","No","Yes","No","4612","4612","4612","Curbside","Curbside","None","Curbside","No",NA,"No",2620.66,646.94,65.89,0,0,"NC",1258.99767275408,4084,55975,70082,7.2,35.7,57.1,0.4416
+"46","BLADENBORO","2","1637","No","No","No","Yes","Yes","881",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",703.9,NA,NA,NA,NA,"NC",738.976391187156,849,43783,49192,16.3,69.5,14.1,0.4678
+"47","BLOWING ROCK","2","1371","No","No","No","Yes","Yes","2060","2060",NA,"Curbside","Curbside","None","Curbside","No",NA,"No",2153.46,219.65,110,0,NA,"NC",423.073354095123,618,83333,110378,3.3,34.9,61.8,0.4327
+"48","BOARDMAN","2","165","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",53.4289568146144,125,49250,51637,18.2,75.2,6.6,0.2608
+"49","BOGUE","2","694","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",252.696402539685,340,76528,83939,7.9,75.7,16.4,0.3124
+"50","BOILING SPRING LAKES","2","5980","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",248.208800896628,2574,51742,58914,3.6,83.8,12.4,0.3955
+"51","BOILING SPRINGS","2","4624","Yes","No","No","Yes","Yes","1460","1360","1400","Curbside","Curbside","None","Curbside","Yes",NA,"No",255,244,200,0,0,"NC",1032.00986484781,1166,73457,82736,8.6,46,45.4,0.4283
+"52","BOLIVIA","2","150","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",235.75537433392,68,32500,44894,11.2,53.7,35.1,0.3794
+"53","BOLTON","2","515","No","No","No","No","Yes","225",NA,NA,"None","Curbside","None","None","Yes",NA,"No",346.5,NA,NA,NA,NA,"NC",142.963729565477,246,42333,51429,25.3,70.9,3.9,0.3886
+"54","BOONE","2","19046","No","No","No","Yes","No","2518","2518","2518","Both","Curbside","Backyard","Curbside","No",NA,"Yes",1872.02,2590.95,460.09,0,-5,"NC",3017.62074534083,6005,25535,48923,12.7,39.2,48.1,0.602
+"55","BOONVILLE","2","1184","Yes","Yes","No","Yes","Yes","477","477","477","Curbside","Curbside","None","Curbside","Yes",NA,"No",429.59,71.39,24.57,0,0,"NC",987.268856535129,616,52500,57090,7,71.2,21.6,0.393
+"56","BOSTIC","2","354","No","No","No","Yes","Yes","118",NA,NA,"None","Curbside","None","None","No",NA,"No",78.04,NA,NA,NA,NA,"NC",379.575459027844,147,34107,55314,16.3,71.7,12,0.4757
+"57","BREVARD","2","7727","No","No","No","Yes","Yes","2968","2968","2968","Curbside","Curbside","None","Curbside","No",NA,"No",3135,714,2912,0,0,"NC",1444.3354843462,3549,37878,59656,8.7,56.5,34.9,0.4697
+"58","BRIDGETON","2","348","No","No","No","Yes","No","212","212","212","Curbside",NA,"None","None","No",NA,"No",NA,216,NA,NA,NA,"NC",170.040250587414,156,46667,61676,7.4,59.8,32.9,0.4195
+"59","BROADWAY","2","1273","No","No","No","Yes","Yes","685","685",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",587.6,119.25,NA,NA,94.9,"NC",983.632609164218,620,56154,97002,16.3,59.2,24.5,0.5173
+"60","BROOKFORD","2","443","No","No","No","Yes","Yes","156",NA,NA,"None","Curbside","None","None","No",NA,"No",250.6,NA,NA,NA,NA,"NC",694.748975533415,194,38214,46352,15.1,79,5.9,0.412
+"61","BRUNSWICK","2","971","No","No","No","No","Yes","209",NA,"209","None","Curbside","None","Curbside","Yes",NA,"No",87.98,NA,0,74.09,0,"NC",1619.92080690854,202,16813,30515,23.4,73,3.7,0.4693
+"62","BRYSON CITY","2","1555","No","No","No","Yes","Yes","675","675",NA,"Curbside","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",712.103222070624,724,35357,51695,19.6,53,27.4,0.4474
+"63","BUNN","2","329","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,30.5,NA,NA,NA,"NC",609.721622522473,205,44750,45702,12.8,67.3,19.9,0.3505
+"64","BURGAW","2","3700","No","No","No","No","Yes","1225","1225","1225","Curbside","Curbside","None","Curbside","Yes",NA,"No",1092,430.74,NA,NA,1464.5,"NC",780.819472952177,1318,47302,53493,22,56.9,21.1,0.423
+"65","BURLINGTON","2","57493","No","Yes","No","Yes","Yes","18244","18244","18244","Curbside","Curbside","None","Curbside","Yes",NA,"No",18314.83,3361.31,NA,NA,9055.06,"NC",1909.99699025043,22739,45587,64544,16.6,57.2,26.3,0.4826
+"66","BURNSVILLE","2","1616","No","No","No","Yes","No","640","640","640","Curbside","Curbside","None","Curbside","No",NA,"No",443.02,76.24,NA,NA,121,"NC",1009.79652323403,832,33222,58253,12.6,66.3,20.9,0.5601
+"67","BUTNER","2","8401","No","No","No","Yes","No",NA,"2767",NA,"Dropoff",NA,"None","None","No",NA,"No",NA,95.62,NA,NA,NA,"NC",598.954809539807,2790,60448,65934,19.6,60.4,20.1,0.3446
+"68","CALABASH","2","2023","No","No","No","Yes","No","1135","1135","1135","Dropoff","Curbside","None","Curbside","Yes",NA,"No",NA,94,NA,NA,180.4,"NC",459.69873323923,959,36936,44691,15.8,63.1,21.1,0.4247
+"69","CALYPSO","2","324","No","No","No","No","Yes","246","198","204","Curbside","Curbside","None","Curbside","No",NA,"No",266.18,18.24,0,84.32,2.94000000000001,"NC",323.644503034789,273,41850,52274,19.8,73.5,6.7,0.3484
+"70","CAMERON","2","245","No","No","No","Yes","Yes","150",NA,"150","None","Curbside","None","Curbside","Yes",NA,"No",185.12,NA,0,10,0,"NC",202.111964912367,162,60729,64343,6.2,66.6,27.1,0.315
+"71","CANDOR","2","812","No","No","No","Yes","Yes","367",NA,NA,"None","Both","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",400.961196636309,369,41705,47497,38.1,46.6,15.3,0.3263
+"72","CANTON","2","4424","No","No","No","Yes","Yes","1866","830","1866","Curbside","Curbside","None","Curbside","No",NA,"No",1114.87,138.18,260,0,0,"NC",1189.06117557252,1743,47899,59217,20.2,68.6,11.1,0.3982
+"73","CAPE CARTERET","2","2220","No","No","No","Yes","No","1102","1102",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,152.75,NA,NA,235,"NC",879.708458472224,1082,78056,84755,2.8,61.5,35.6,0.379
+"74","CAROLINA BEACH","2","6565","Yes","No","No","No","Yes","4828","4828","4828","Curbside","Curbside","None","Curbside","Yes",NA,"No",6259.83,1418.03,0,432.9,-276.9,"NC",2677.45377543123,2799,68773,94562,3.4,53.2,43.4,0.4644
+"75","CAROLINA SHORES","2","4616","No","No","No","Yes","No","2450","2450","2450","Dropoff","Drop-off","None","Dropoff","No",NA,"No",NA,170.64,616.25,0,0,"NC",1718.90430707812,2253,57454,70473,3.4,72.9,23.7,0.3702
+"76","CARRBORO","2","21344","No","No","Yes","Yes","Yes","9240",NA,"4387","None","Curbside","Backyard","Curbside","Yes",NA,"Yes",6778.7,NA,2093.74,0,0,"NC",3296.16526517294,8954,67469,91117,4.5,25.9,69.7,0.4759
+"77","CARTHAGE","2","2789","No","No","No","No","Yes","1214","1214","1214","Dropoff","Curbside","None","Curbside","Yes",NA,"No",NA,13.12,NA,NA,182,"NC",419.642945341539,1022,41731,56451,8.6,72.2,19.2,0.4303
+"78","CARY","2","175635","Yes","No","No","Yes","Yes","53580","53580","53580","Both","Curbside","Backyard","Curbside","Yes",NA,"Yes",39671,13084,20740,0,0,"NC",2965.15208006271,63519,107463,135850,3.7,27.8,68.5,0.4169
+"79","CASAR","2","306","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",174.814878269754,110,48125,61661,15,72,12.9,0.5117
+"80","CASTALIA","2","264","No","No","No","No","Yes","119","119",NA,"Curbside","Curbside","None","None","Yes",NA,"No",60.21,11.86,NA,NA,NA,"NC",350.744731248464,121,32292,48755,15.7,71.2,13,0.4389
+"81","CASWELL BEACH","2","397","No","No","No","Yes","Yes","628","628","628","Curbside","Curbside","None","Curbside","Yes",NA,"No",152,175,NA,NA,1000.2,"NC",133.71226818119,235,122813,139028,0.2,44.7,55.1,0.4212
+"82","CATAWBA","2","703","No","No","No","Yes","Yes","281","293","293","Curbside","Curbside","None","Curbside","Yes",NA,"No",403.32,41.76,NA,NA,1,"NC",158.583839605798,298,38750,41272,18.9,74,7.1,0.4707
+"83","CEDAR POINT","2","1761","No","No","No","No","Yes","819","819","819","Curbside","Both","None","Curbside","Yes",NA,"No",654.35,122.19,NA,NA,160,"NC",791.82899541519,827,79875,108350,4.1,51.3,44.6,0.4455
+"84","CEDAR ROCK","2","301","No","No","No","No","No","135",NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",106.37,NA,NA,NA,NA,"NC",263.862739299107,NA,NA,NA,NA,NA,NA,NA
+"85","CERRO GORDO","2","130","No","No","No","Yes","Yes","96",NA,NA,"None","Curbside","None","None","Yes",NA,"No",24,NA,NA,NA,NA,"NC",164.609625693006,167,NA,32404,15.5,71.9,12.6,0.6359
+"86","CHADBOURN","2","1562","No","No","No","No","Yes","830","830","830","Dropoff","Curbside","None","Curbside","Yes",NA,"No",454.31,1.89,278.04,0,0,"NC",600.453762539853,764,23750,39676,20.5,71.8,7.8,0.5391
+"87","CHAPEL HILL","2","62080","Yes","No","Yes","Yes","No","12495",NA,"12210","None","Curbside","Backyard","Curbside","Yes",NA,"No",12957,NA,6280,0,0,"NC",2876.75704298409,19856,75249,125312,3.6,19.6,76.9,0.5483
+"88","CHARLOTTE","2","876694","Yes","No","No","Yes","Yes","366100","366100","224062","Curbside","Curbside","None","Curbside","Yes",NA,"No",340756.95,50189,52042.67,0,0,"NC",2843.77703424793,338985,65359,98462,10.6,44.6,44.7,0.4974
+"89","CHERRYVILLE","2","6096","No","Yes","No","No","Yes","2700","2700",NA,"Dropoff","Curbside","None",NA,"Yes",NA,"No",3355.32,203,NA,NA,NA,"NC",1104.2734728809,2394,49420,60123,11.3,67.8,20.8,0.4157
+"90","CHINA GROVE","2","4456","No","No","No","Yes","No","1928",NA,NA,"None","Curbside","None","Curbside","No",NA,"No",2014.61,NA,NA,NA,NA,"NC",1246.77349537591,2011,38710,60638,23.7,61.2,15,0.5041
+"91","CHOCOWINITY","2","720","Yes","No","No","Yes","Yes","450",NA,"442","None","Curbside","None","Curbside","Yes",NA,"No",315.07,NA,NA,NA,269.4,"NC",714.88019507333,609,26996,38104,10.1,82,7.8,0.4216
+"92","CLAREMONT","2","1695","No","No","No","Yes","Yes","689","677","677","Curbside","Curbside","None","Curbside","Yes",NA,"No",587.65,108.99,5,0,0,"NC",595.005517921471,817,54830,69928,8.3,71,20.7,0.4038
+"93","CLARKTON","2","610","No","No","No","Yes","Yes","550",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",489.698659059188,337,17875,33116,13,74.9,12,0.5171
+"94","CLAYTON","2","26517","Yes","No","No","No","Yes","9072","9055","9072","Curbside","Curbside","Backyard","Curbside","Yes",NA,"No",8111.02,1986.35,777,0,-0.32000000000005,"NC",1739.53163730616,8337,61954,80571,6.3,63,30.7,0.4351
+"95","CLEMMONS","2","21202","No","No","No","Yes","No","6992","6187","3360","Both","Curbside","None","Curbside","Yes",NA,"No",5142.3,1378.86,5978,0,0,"NC",1783.33958972258,NA,NA,NA,NA,NA,NA,NA
+"96","CLEVELAND","2","848","No","No","No","Yes","No","328","215",NA,"Curbside","Curbside","None","None","Yes",NA,"No",339.89,44.37,NA,NA,NA,"NC",552.519120988236,425,48750,53874,12.1,65.3,22.6,0.3635
+"97","CLINTON","2","8357","No","Yes","Yes","Yes","Yes","3800","2909","3800","Both","Curbside","None","Curbside","Yes",NA,"No",8782,160.49,1281,0,0.660000000000082,"NC",1095.28418131322,3125,33679,60275,20.1,57.2,22.8,0.5672
+"98","CLYDE","2","1369","No","No","No","No","Yes","569","512","569","Curbside","Curbside","None","Curbside","No",NA,"No",825,78.19,79,0,0,"NC",1577.67996182303,577,57721,62070,6.3,72.8,21,0.3555
+"99","COATS","2","2159","No","Yes","No","No","Yes","1019","1019","1019","Curbside","Curbside","None","Curbside","Yes",NA,"No",739.12,146.77,0,330.81,0,"NC",1528.28720284441,1093,39659,44729,20.3,65.3,14.3,0.3843
+"100","COFIELD","2","264","No","No","No","No","Yes","124","124",NA,"Curbside","Curbside","None","None","No",NA,"No",132.59,2.08,NA,NA,NA,"NC",84.0566159261809,NA,NA,NA,NA,NA,NA,NA
+"101","COLERAIN","2","216","No","No","No","No","Yes","125",NA,"125","None","Curbside","None","Curbside","Yes",NA,"No",120,NA,NA,NA,70,"NC",821.640015075806,114,64722,105039,3.9,79,17.2,0.4399
+"102","COLUMBIA","2","590","Yes","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",485.663002510483,342,17024,28266,27.5,65.2,7.3,0.4368
+"103","COLUMBUS","2","1055","No","No","No","No","Yes","701","423","701","Curbside","Curbside","None","Curbside","No",NA,"No",360.67,72.18,52.1,82,0,"NC",280.831821452291,542,43125,52086,15.3,63,21.6,0.4366
+"104","COMO","2","66","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",20.9828105973868,42,35000,46426,7.4,86.2,6.3,0.4136
+"105","CONCORD","2","105936","Yes","No","No","Yes","Yes","35094","35094","35094","Curbside","Curbside","Backyard","Curbside","Yes",NA,"No",36427,5480,10347,0,0,"NC",1668.84100912529,33059,70973,95822,10.9,50.8,38.3,0.4623
+"106","CONETOE","2","197","No","No","No","Yes","No","116",NA,"116","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,29.74,0,0,"NC",547.899001474479,147,31589,41510,10,86,4,0.3071
+"107","CONNELLY SPRINGS","2","1525","No","No","No","No","No","819","819",NA,"Dropoff","Curbside","None","None","Yes",NA,"No",705.93,15.1,NA,NA,NA,"NC",305.586245751773,894,44625,73987,20.2,68.2,11.4,0.5069
+"108","CONOVER","2","8437","Yes","No","No","No","Yes","3060","1903","3060","Both","Curbside","None","Curbside","Yes",NA,"No",3099.68,461.57,1173.34,0,208,"NC",755.258661892696,3362,48989,67147,15,64.4,20.6,0.4374
+"109","CONWAY","2","742","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",406.875959160753,275,38203,55520,14.9,66.9,18.2,0.5308
+"110","COOLEEMEE","2","942","No","No","No","Yes","No","455",NA,NA,"None","Curbside","None","None","Yes",NA,"No",327.56,NA,NA,NA,NA,"NC",1252.11573720045,387,46250,56704,13.6,70.4,16,0.4217
+"111","CORNELIUS","2","31489","No","No","No","Yes","No","10542","10542","10542","Curbside","Curbside","None","Curbside","Yes",NA,"No",9624.08,2003.08,2012.97,0,0,"NC",2492.01722571613,12363,90377,140643,3.2,42.3,54.4,0.5136
+"112","COVE CITY","2","377","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",591.217296700556,238,47857,64293,18,61.4,20.4,0.4301
+"113","CRAMERTON","2","5312","No","No","No","Yes","No","2097","2085","1875","Curbside","Curbside","None","Curbside","Yes",NA,"No",2141,906,469,0,0,"NC",1377.21953169924,1757,87927,106051,4.7,56.6,38.7,0.396
+"114","CREEDMOOR","2","4869","No","No","No","Yes","Yes","1643","1639","1643","Curbside","Curbside","None","Curbside","No",NA,"No",1476.13,236.44,48.46,0,0,"NC",910.785490489371,1657,78119,80441,9.6,55,35.3,0.3305
+"115","CRESWELL","2","206","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",363.99143313965,89,25875,65125,9.8,79.6,10.6,0.6649
+"116","CROSSNORE","2","212","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",473.514916101892,19,79375,73742,0,76.3,23.7,0.2042
+"117","DALLAS","2","5945","No","Yes","No","Yes","Yes","2283",NA,NA,"None","Curbside","None","None","Yes",NA,"No",3444,NA,NA,NA,NA,"NC",2023.62898912167,1673,46189,58637,21,66,13.1,0.4482
+"118","DANBURY","2","189","No","No","No","Yes","No","59","59","0","Curbside","Curbside","None","None","Yes",NA,"No",50.97,9.64,NA,NA,0,"NC",252.003254032091,60,85909,74307,11.5,47.3,41.2,0.2593
+"119","DAVIDSON","2","15140","No","No","No","Yes","Yes","4491","4491","4491","Both","Curbside","Backyard","Curbside","Yes",NA,"Yes",3408.58,899.85,432.3,0,0,"NC",2404.91762668488,4473,131144,164400,2.7,23.4,73.9,0.4322
+"120","DENTON","2","1496","No","No","No","Yes","Yes","807","807","757","Curbside","Curbside","None",NA,"Yes",NA,"No",426.48,121.32,NA,NA,141.75,"NC",711.434596353942,584,35250,46846,20,64.4,15.6,0.4204
+"121","DILLSBORO","2","213","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",445.482664957335,114,48000,53050,3,44.4,52.6,0.4222
+"122","DOBBINS HEIGHTS","2","684","No","No","No","Yes","No","822",NA,"822","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,15.93,0,0,"NC",774.83945676015,425,19583,31170,20.1,71.9,7.9,0.4986
+"123","DOBSON","2","1462","No","No","No","Yes","No",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",719.950682769402,594,46957,63492,13.9,62.8,23.4,0.4934
+"124","DORTCHES","2","1083","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",133.889312154739,351,63942,88717,10.1,65,24.9,0.4407
+"125","DOVER","2","348","No","No","No","Yes","Yes","220",NA,NA,"None",NA,"None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",362.679792489647,130,40000,45248,29.3,58.7,12.1,0.3672
+"126","DREXEL","2","1756","No","No","No","Yes","Yes","939","939","939","Dropoff","Curbside","None","Curbside","Yes",NA,"No",889,24.1,NA,NA,2.36,"NC",1270.91080207794,744,57609,61848,11,69,20.1,0.3671
+"127","DUBLIN","2","265","No","No","No","No","Yes","241",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,0,8.22,0,"NC",608.971534968001,136,40375,57851,2.3,90.5,7.3,0.4414
+"128","DUCK","2","744","No","No","No","No","No","2272","2320",NA,"Curbside","Curbside","None","None","Yes",NA,"No",4344.65,543,NA,NA,NA,"NC",308.004820479659,289,107083,141160,3.3,37.4,59.3,0.4688
+"129","DUNN","2","8463","No","No","No","No","Yes","3823","3821","3531","Curbside","Curbside","None","Curbside","Yes",NA,"No",3013.17,381.22,556.54,1173.81,-556.54,"NC",1231.94864992304,4133,34464,48570,14,66.9,19.2,0.4655
+"130","DURHAM","2","284317","Yes","Yes","No","Yes","Yes","78668","78668","22656","Both","Curbside","Backyard","Curbside","Yes",NA,"No",169048.58,21165.05,13598.73,0,0,"NC",2520.74668315231,114420,61962,85619,10.3,38.5,51.2,0.4602
+"131","EARL","2","199","No","No","No","Yes","No","100",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",231.044514611847,142,36951,48467,10.1,86.3,3.4,0.3426
+"132","EAST ARCADIA","2","415","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",184.732671472442,231,42852,43152,11.6,67.6,20.8,0.3995
+"133","EAST BEND","2","634","No","No","No","Yes","No","294","294",NA,"Curbside","Curbside","None","None","No",NA,"No",197.06,23,NA,NA,NA,"NC",484.51489184486,232,63750,71444,12,72.1,15.9,0.3309
+"134","EAST LAURINBURG","2","233","No","No","No","Yes","Yes","336","124","336","Curbside","Curbside","None","Curbside","Yes",NA,"No",180,0,NA,NA,12.76,"NC",1212.97263718772,132,23846,35705,23.6,73.5,2.9,0.5064
+"135","EAST SPENCER","2","1571","No","No","No","No","No",NA,NA,NA,"None",NA,"None","Curbside","No",NA,"No",NA,NA,NA,NA,NA,"NC",745.710438806704,641,36250,49089,13.3,75.5,11.3,0.4594
+"136","EASTOVER","2","3657","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",322.825565471014,1388,55174,66782,3.8,67.5,28.7,0.4127
+"137","EDEN","2","15433","Yes","No","No","Yes","Yes","6000","1800","6000","Dropoff","Curbside","None","Curbside","Yes",NA,"No",7739.75,69.68,NA,NA,4000,"NC",1086.97394904151,6474,39083,50176,17.6,66.5,15.7,0.4411
+"138","EDENTON","2","4454","Yes","Yes","No","Yes","Yes","2195","2195","2195","None","Curbside","None","Curbside","Yes",NA,"No",3803.4,0,NA,NA,748.338,"NC",828.703969884282,2126,40711,51456,16,58.3,25.8,0.54
+"139","ELIZABETH CITY","2","18651","Yes","No","No","No","Yes","7980","7980","7980","Curbside","Curbside","None","Curbside","Yes",NA,"No",7095.02,882.69,656.71,1967.83,0,"NC",1593.11749483669,6405,43024,60048,11.9,61.4,26.7,0.4562
+"140","ELIZABETHTOWN","2","3275","No","No","No","Yes","Yes","1522","1522","1522","Curbside","Curbside","None","Curbside","Yes",NA,"No",2667.48,263.18,1020.23,0,0,"NC",646.081517221887,1495,21900,40043,22.1,49.7,28.2,0.5183
+"141","ELK PARK","2","540","No","No","No","Yes","No","345",NA,NA,"None","Curbside","None","None","No",NA,"No",110,NA,NA,NA,NA,"NC",781.945715051993,237,40272,44561,14.2,76.8,9,0.4084
+"142","ELKIN","2","4121","No","No","No","Yes","Yes","1380","1380","1380","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,172.33,NA,NA,NA,"NC",607.957720494333,1489,48079,65423,22.2,59.3,18.4,0.5292
+"143","ELLENBORO","2","721","No","No","No","Yes","Yes","297","294",NA,"Curbside","Curbside","None","None","No",NA,"No",361.78,34.66,NA,NA,NA,"NC",569.874368681408,283,39453,48530,19.6,68.8,11.5,0.3841
+"144","ELLERBE","2","860","No","No","No","Yes","Yes","442","442","442","Curbside","Curbside","None","Curbside","No",NA,"No",600,0.48,291,0,0,"NC",653.773826460615,489,32438,50499,26.9,57.6,15.5,0.4588
+"145","ELM CITY","2","1216","No","Yes","No","Yes","Yes","621","606",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",493.89,43.83,NA,NA,NA,"NC",565.442629713272,625,37721,44701,19.6,63.6,16.7,0.4099
+"146","ELON","2","11359","No","No","No","No","Yes","2214","2214","2214","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,387.48,NA,NA,1050,"NC",2798.70540321616,3367,69085,83754,6.7,40.2,53,0.4294
+"147","EMERALD ISLE","2","3840","Yes","No","No","Yes","Yes","6735","6735","6735","Curbside","Curbside","None","Curbside","No",NA,"No",3994.14,779.56,3358,0,0,"NC",779.971904033277,1708,84457,110890,2.7,49.1,48.2,0.4317
+"148","ENFIELD","2","1856","No","No","No","No","Yes","764",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1426.70396781211,978,21774,31637,28.7,64.9,6.3,0.4839
+"149","ERWIN","2","4551","No","Yes","Yes","No","Yes","2156","2156","2156","Curbside","Curbside","None","Curbside","Yes",NA,"No",2167,106,0,1132.26,0,"NC",1079.51633291015,1776,41702,55854,15.5,73.8,10.7,0.4329
+"150","EUREKA","2","213","No","No","No","No","Yes","116",NA,NA,"None","Curbside","None","None","No",NA,"No",125.54,NA,NA,NA,NA,"NC",623.177735861775,89,40625,49924,11.2,72.5,16.4,0.3348
+"151","EVERETTS","2","149","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",302.420036279208,49,36406,49280,22.8,63.9,13.2,0.4689
+"152","FAIR BLUFF","2","703","No","No","No","Yes","Yes","333",NA,NA,"None","Curbside","None","None","Yes",NA,"No",424.32,NA,NA,NA,NA,"NC",299.533637217592,277,22434,35765,19.6,64.5,15.9,0.5065
+"153","FAIRMONT","2","2179","No","No","No","No","Yes","1030","100","1030","Dropoff","Curbside","None","Curbside","Yes",NA,"No",937,208,NA,NA,1570,"NC",795.144707888701,1013,30022,44188,15.5,68.6,15.7,0.4776
+"154","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,1332,76824,121829,6.5,60.8,32.7,0.4945
+"155","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,1332,76824,121829,6.5,60.8,32.7,0.547
+"156","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,937,58966,104195,6.5,60.8,32.7,0.4945
+"157","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,937,58966,104195,6.5,60.8,32.7,0.547
+"158","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,1332,76824,121829,10.3,56,33.7,0.4945
+"159","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,1332,76824,121829,10.3,56,33.7,0.547
+"160","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,937,58966,104195,10.3,56,33.7,0.4945
+"161","FAIRVIEW","2","3471","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",115.763138591751,937,58966,104195,10.3,56,33.7,0.547
+"162","FAISON","2","777","No","No","No","No","Yes","354","354",NA,"Curbside","Curbside","None","None","No",NA,"No",431.3,67.6,NA,NA,NA,"NC",915.300035432307,338,41429,48244,36.8,46.8,16.4,0.4172
+"163","FAITH","2","821","No","No","No","Yes","Yes","406",NA,NA,"None","Curbside","None","None","No",NA,"No",446.63,NA,NA,NA,NA,"NC",783.274747500323,399,103417,109764,6.5,67.1,26.4,0.2926
+"164","FALCON","2","324","No","No","No","No","Yes",NA,NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",230.058830295111,56,60625,70038,5.8,65,29.2,0.3723
+"165","FALKLAND","2","47","No","No","No","Yes","No",NA,NA,NA,"Curbside","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",206.389650094099,84,78279,66135,3.1,95.7,1.3,0.151
+"166","FALLSTON","2","629","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",290.574305890154,324,28333,63315,17.8,59.5,22.7,0.6009
+"167","FARMVILLE","2","4456","No","No","No","No","Yes","1967","1967",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",1900,190,NA,NA,415,"NC",1390.99989387564,1898,46719,64121,14.5,62.4,23,0.4524
+"168","FAYETTEVILLE","2","208530","No","No","No","No","Yes","61570","61570","61570","Curbside","Curbside","None","Curbside","Yes",NA,"No",60441.66,6644.9,18428.7,0,-0.630000000001019,"NC",1406.53187793562,82242,46321,60449,7.9,64.8,27.3,0.4503
+"169","FLAT ROCK","2","3492","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",431.053059600932,479,33140,40129,24.9,66.8,8.2,0.4158
+"170","FLETCHER","2","8002","Yes","No","No","Yes","No","3024","3024","3024","Curbside","Curbside","None","Curbside","Yes",NA,"No",2168.93,619.83,NA,NA,847.6,"NC",1251.27133226981,3531,62007,72071,5.5,61.8,32.7,0.3202
+"171","FONTANA DAM","2","13","No","No","No","Yes","No","105","105",NA,"Curbside","Curbside","None","None","No",NA,"No",NA,2.5,NA,NA,NA,"NC",20.8357516616387,19,65625,60068,0,100,0,0.2888
+"172","FOREST CITY","2","7359","No","No","No","Yes","Yes","3180","3180",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",3186.28,448.57,1620,0,NA,"NC",858.814805862794,2854,29571,42752,15.2,67.8,17,0.46
+"173","FOREST HILLS","2","303","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",611.283046311581,NA,NA,NA,NA,NA,NA,NA
+"174","FOUNTAIN","2","385","No","No","No","Yes","Yes","162","162","140","Curbside","Curbside","None","Curbside","Yes",NA,"No",147.46,32.21,NA,NA,60,"NC",418.359758093892,148,22500,45122,29.9,51.4,18.7,0.5618
+"175","FOUR OAKS","2","2191","No","No","No","Yes","Yes","1013","105","1013","Curbside","Curbside","None","Curbside","Yes",NA,"No",1065.46,9.99,0,289,0,"NC",918.182274856027,874,52833,60455,17.4,63.7,19,0.4187
+"176","FRANKLIN","2","4185","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",854.613941566637,1847,39754,51570,22.5,49.9,27.7,0.4222
+"177","FRANKLINTON","2","2468","No","No","No","Yes","Yes","770","770","792","Curbside","Curbside","None","Curbside","Yes",NA,"No",849.32,118.98,NA,NA,80,"NC",1420.54161519434,793,45938,57344,13.3,64.9,21.8,0.4325
+"178","FRANKLINVILLE","2","1199","No","No","No","No","No","476",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",362,NA,NA,NA,100,"NC",739.644802388689,468,36429,45253,21.8,73.8,4.4,0.3755
+"179","FREMONT","2","1193","No","Yes","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",879.651964857801,450,41131,47425,17.7,68.6,13.6,0.3957
+"180","FUQUAY-VARINA","2","34604","No","No","No","Yes","Yes","12462","12462","12462","Curbside","Curbside","None","Curbside","Yes",NA,"No",11404.61,2098,NA,NA,1650,"NC",1964.32146694248,9940,81914,97198,6.1,47.4,46.4,0.3985
+"181","GAMEWELL","2","3696","No","No","No","Yes","No","1706",NA,NA,"None","Curbside","None","None","Yes",NA,"No",1467.01,NA,NA,NA,NA,"NC",455.882062846887,1544,53667,55492,19.2,73.7,7.1,0.358
+"182","GARLAND","2","593","No","No","No","Yes","Yes","380","350","380","Curbside","Curbside","None","Curbside","Yes",NA,"No",379.6,35.36,NA,NA,NA,"NC",551.045285328761,357,38125,41403,24,70.6,5.5,0.3605
+"183","GARNER","2","31306","Yes","No","No","Yes","No","9968","9744","9968","Curbside","Curbside","None","Curbside","Yes",NA,"No",8869,1896,482,2724,0,"NC",1890.0493817224,11784,67571,85157,6.1,49.9,44.1,0.3916
+"184","GARYSBURG","2","892","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",945.457318556836,421,29835,33336,16.3,70.1,13.5,0.362
+"185","GASTON","2","996","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",589.121504152375,547,34049,42024,25.9,66.4,7.7,0.3729
+"186","GASTONIA","2","80647","Yes","No","No","Yes","Yes","24513","24513","24513","Both","Curbside","Backyard","Curbside","Yes",NA,"No",28852,2914,4253,0,0,"NC",1560.47174082775,29306,50266,70498,14,60.4,25.6,0.4746
+"187","GATESVILLE","2","265","No","No","No","Yes","No",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",656.286311038684,108,62500,67756,7.4,74.6,18,0.266
+"188","GIBSON","2","447","No","No","No","No","Yes","238",NA,"208","None","Curbside","None","Curbside","Yes",NA,"No",234.78,NA,NA,NA,168,"NC",458.121274031999,262,25769,59690,18.2,71.4,10.4,0.6669
+"189","GIBSONVILLE","2","8944","No","No","No","Yes","Yes","3467","3467","3467","Curbside","Curbside","None","Curbside","Yes",NA,"No",2807.71,537.93,NA,NA,360,"NC",2438.278857765,2652,77500,78028,11,52.5,36.5,0.3182
+"190","GLEN ALPINE","2","1525","No","No","No","Yes","No","675",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,136.5,"NC",710.319424132376,706,39550,66018,13.1,66,21,0.4889
+"191","GODWIN","2","128","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",247.70019868588,85,NA,55985,5.7,72.3,22,0.5769
+"192","GOLDSBORO","2","34156","Yes","No","No","No","Yes","14965","14965","14965","Curbside","Curbside","None","Curbside","Yes",NA,"No",12433.78,1024.7,8544,0,0,"NC",1194.66748453427,14632,37556,53725,13,66.4,20.4,0.5074
+"193","GOLDSTON","2","235","No","No","No","Yes","No","131","131",NA,"Curbside","Curbside","None","None","Yes",NA,"No",292.24,58.24,NA,NA,NA,"NC",298.068048819672,136,40833,61354,30.7,60.4,8.8,0.412
+"194","GRAHAM","2","17218","No","No","No","Yes","Yes","5527","5527","5527","Curbside","Curbside","None","Curbside","Yes",NA,"No",4603.53,889.98,378.23,0,809.77,"NC",1730.51710924087,6421,41499,54078,13.9,65.4,20.7,0.4543
+"195","GRANDFATHER VILLAGE","2","95","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",61.3370390361378,NA,NA,NA,NA,NA,NA,NA
+"196","GRANITE FALLS","2","4957","No","Yes","No","Yes","Yes","2093","2093","2093","Curbside","Curbside","None","Curbside","Yes",NA,"No",2035.38,316.06,397,0,0,"NC",1004.86545692319,1782,67069,70451,12.5,56.4,31.1,0.3719
+"197","GRANITE QUARRY","2","2992","No","No","No","No","Yes","1366",NA,NA,"None","Curbside","None",NA,"Yes",NA,"No",1055.87,NA,15,0,NA,"NC",1029.98771683257,1030,47529,61353,8.2,72.5,19.4,0.3971
+"198","GRANTSBORO","2","691","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",179.294620136613,252,56111,63790,13.3,76.3,10.5,0.3576
+"199","GREEN LEVEL","2","3163","No","No","No","Yes","No","895","895","895","Curbside","Curbside","None","Curbside","Yes",NA,"No",686.3,165.5,NA,NA,23.5,"NC",2107.19632256943,881,33938,44038,25.1,69,5.8,0.4198
+"200","GREENEVERS","2","562","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",354.021011077004,349,27234,35797,23.4,67.1,9.4,0.3748
+"201","GREENSBORO","2","299556","Yes","Yes","No","Yes","Yes","88020","88020","88020","Both","Curbside","Backyard","Curbside","Yes",NA,"No",127048,18151,16688.22,0,-3793.22,"NC",2311.66904805968,118126,49492,73183,10.1,50.6,39.4,0.4974
+"202","GREENVILLE","2","87428","Yes","No","No","No","Yes","41567","20132","22693","Curbside","Curbside","Backyard","Curbside","Yes",NA,"No",19522,2511,NA,NA,22440,"NC",2388.92416126173,36859,42612,64095,7.7,54.5,37.9,0.5045
+"203","GRIFTON","2","2445","No","No","No","No","Yes","950","950","950","Curbside","Curbside","None","Curbside","Yes",NA,"No",964.38,115.35,NA,NA,1349,"NC",911.479862685239,1212,31846,47796,15.7,74.3,10,0.4929
+"204","GRIMESLAND","2","386","No","No","No","No","No","193","193",NA,"Curbside","Curbside","None","None","Yes",NA,"No",163.1,9.31,NA,NA,NA,"NC",567.5155600453,193,36406,69112,13,78.6,8.3,0.5844
+"205","GROVER","2","804","No","No","No","Yes","Yes","320",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",841.397228091473,261,30750,44161,16.7,73.9,9.4,0.4645
+"206","HALIFAX","2","169","No","No","No","No","Yes","111","111","111","Curbside","Curbside","None","Curbside","Yes",NA,"No",218,28,65,0,0,"NC",369.617436167381,136,52150,56405,3.5,67.9,28.6,0.2158
+"207","HAMILTON","2","305","No","No","No","Yes","No","280",NA,"280","None","Curbside","None","Curbside","No",NA,"No",14,NA,NA,NA,728,"NC",617.259411611438,110,36250,53022,16.4,74.9,8.8,0.4642
+"208","HAMLET","2","5996","Yes","No","No","Yes","Yes","2948",NA,"2934","None","Curbside","None","Curbside","Yes",NA,"No",4200,NA,0,575,0,"NC",1138.35700463483,2519,36381,49692,18.2,69.9,11.9,0.4788
+"209","HARMONY","2","546","No","No","No","Yes","No","265",NA,NA,"None","Curbside","None","None","Yes",NA,"No",345,NA,NA,NA,NA,"NC",402.531068884895,217,52917,62229,14.1,70.4,15.5,0.3653
+"210","HARRELLS","2","159","No","No","No","Yes","Yes","100","100",NA,"Curbside","Curbside","None","None","Yes",NA,"No",122.08,49.89,NA,NA,NA,"NC",50.5384062279689,81,58250,67119,8.8,78.4,12.9,0.4824
+"211","HARRELLSVILLE","2","84","Yes","No","No","Yes","Yes","48",NA,NA,"None","Curbside","None","None","No",NA,"No",29.78,NA,NA,NA,NA,"NC",289.475016452624,52,58667,72438,9.8,82.2,8,0.3285
+"212","HARRISBURG","2","19094","No","No","No","Yes","No","6391","6391","6391","Curbside","Curbside","None","Curbside","Yes",NA,"No",7166.92,400.32,2298.28,0,0,"NC",1693.11767761443,4695,112757,123435,2.7,46.3,51.1,0.3387
+"213","HASSELL","2","49","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",183.899773228411,22,16250,25064,73.6,26.4,0,0.3403
+"214","HAVELOCK","2","17759","No","No","No","No","No",NA,NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1039.35942331765,5905,49893,63467,6.2,78.3,15.6,0.4024
+"215","HAW RIVER","2","2260","No","No","No","Yes","Yes","938","455","938","Curbside","Curbside","None","Curbside","Yes",NA,"No",670.9,223.84,0,89.3,0,"NC",782.433061895693,991,40149,53401,14.1,74.4,11.5,0.4431
+"216","HAYESVILLE","2","460","No","No","No","Yes","No","190","190",NA,"Curbside","Curbside","None","None","No",NA,"No",110.89,4.75,NA,NA,NA,"NC",723.208288304902,142,25625,34744,24,60.5,15.5,0.457
+"217","HEMBY BRIDGE","2","1621","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",707.418804287459,663,60125,68055,19.9,63.7,16.4,0.4008
+"218","HENDERSON","2","15010","No","No","No","No","Yes","5725","5725","5725","Curbside","Curbside","None","Curbside","No",NA,"No",6867.29,165,2498.58,0,0,"NC",1740.39600316704,6000,31793,49413,17.8,65,17.3,0.5171
+"219","HENDERSONVILLE","2","16115","No","No","No","Yes","Yes","5827","5827","5827","Curbside","Curbside","None","Curbside","Yes",NA,"No",3566.08,1070.07,NA,NA,2376.4,"NC",2175.51514739105,7137,41185,56738,8.7,55.2,36.2,0.4658
+"220","HERTFORD","2","1928","No","No","No","Yes","Yes","980","647","980","Curbside","Curbside","None","Curbside","No",NA,"No",653.74,206.73,0,223.1,0,"NC",673.793496260758,899,40750,46254,18.7,69.3,11.9,0.4306
+"221","HICKORY","2","43578","Yes","Yes","No","Yes","Yes","13650","8845","8845","Both","Curbside","None","Curbside","Yes",NA,"No",28159.22,3921.7,NA,NA,10246.38,"NC",1418.0386498011,16704,48653,72383,11,54.1,34.9,0.4932
+"222","HIGH POINT","2","114271","Yes","Yes","No","No","Yes","48898","45782","45782","Both","Both","None","Curbside","No",NA,"No",50544,12382,18985.28,0,-11167.57,"NC",2027.35764314611,42840,49649,73001,14.9,52.9,32.2,0.4766
+"223","HIGH SHOALS","2","597","No","No","No","Yes","Yes","309","309","230","Curbside","Curbside","None","Curbside","Yes",NA,"No",299.17,33.96,1.79,0,0,"NC",229.411287581692,368,26557,42116,14.9,78.6,6.5,0.482
+"224","HIGHLANDS","2","1077","No","No","No","No","Yes",NA,NA,NA,NA,"Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",175.772925691442,597,55938,75703,3.8,44.6,51.6,0.4884
+"225","HILDEBRAN","2","1675","No","No","No","Yes","No","750","359",NA,"Curbside","Curbside","None","None","Yes",NA,"No",600.72,75.1,NA,NA,NA,"NC",592.245555732156,738,39559,56851,18,67,14.9,0.4952
+"226","HILLSBOROUGH","2","9681","Yes","No","No","Yes","No","2864",NA,"2864","None","Curbside","None","Curbside","Yes",NA,"No",1915,NA,1150,0,0,"NC",1707.59038301109,3014,65591,98419,9.1,34.3,56.8,0.478
+"227","HOBGOOD","2","267","No","No","No","Yes","Yes","147",NA,"147","None","Curbside","None","Curbside","No",NA,"No",116.36,NA,NA,NA,197.6,"NC",258.293968388174,118,40909,45515,16.7,56.9,26.3,0.4161
+"228","HOFFMAN","2","416","No","No","No","Yes","No","237",NA,"237","None","Curbside","None","Curbside","No",NA,"No",283.98,NA,10.08,0,0,"NC",122.27913144066,247,31042,47702,29.6,63.4,7,0.53
+"229","HOLDEN BEACH","2","927","No","No","No","Yes","Yes","2542","600","2542","Curbside","Curbside","None","Curbside","Yes",NA,"No",695,NA,NA,NA,115.2,"NC",305.613703239984,469,101458,137469,2.9,34.4,62.7,0.4439
+"230","HOLLY RIDGE","2","4177","No","No","No","Yes","Yes",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1044.689804447,996,79167,90435,9.1,50.2,40.7,0.3695
+"231","HOLLY SPRINGS","2","41711","No","No","No","No","Yes","13498","13642","13642","Curbside","Curbside","None","Curbside","Yes",NA,"No",11014.09,1644.74,NA,NA,5638.75,"NC",2404.76702820551,11573,110758,132679,5.1,35.2,59.6,0.357
+"232","HOOKERTON","2","412","No","No","No","Yes","Yes","160",NA,"160","None","Curbside","None","Curbside","Yes",NA,"No",223.57,NA,0,31.66,0,"NC",1292.97300026609,225,34539,44239,35.8,60.4,3.8,0.429
+"233","HOPE MILLS","2","17811","Yes","No","No","No","Yes","5354","5354","5354","Curbside","Curbside","None","Curbside","Yes",NA,"No",4404.36,1028.36,0,1288.77,0,"NC",2212.47084705004,5910,47730,61652,6.5,71.4,22.1,0.4288
+"234","HOT SPRINGS","2","519","No","No","No","Yes","No","350",NA,NA,"None","Curbside","None","None","No",NA,"No",90.87,NA,NA,NA,NA,"NC",181.01839040954,227,34271,41834,10.3,63.3,26.4,0.3827
+"235","HUDSON","2","3774","No","Yes","No","Yes","Yes","1580",NA,"1580","None","Curbside","None","Curbside","Yes",NA,"No",1448.41,NA,151.3,0,23.47,"NC",1031.73053918854,1463,44016,54503,16.3,64.7,19,0.4253
+"236","HUNTERSVILLE","2","61526","No","No","No","No","Yes","20401","20401","20401","Curbside","Curbside","None","Curbside","Yes",NA,"No",20713.99,5303.53,4889.04,0,0,"NC",1488.19764688692,20666,100789,122796,4.2,42,53.8,0.3925
+"237","INDIAN BEACH","2","223","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",391.604801631666,86,90000,115449,0,31.5,68.4,0.3741
+"238","INDIAN TRAIL","2","40167","No","No","No","Yes","Yes","13572","13572","13572","Curbside","Curbside","None","Curbside","Yes",NA,"No",13978.68,2237.11,835.74,0,0,"NC",1806.35177058518,12693,86512,108592,6.8,54.6,38.6,0.4031
+"239","JACKSON","2","425","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",420.813473309809,283,40466,46647,16.3,73.3,10.3,0.4131
+"240","JACKSONVILLE","2","72800","No","Yes","No","Yes","Yes","12899","12219","11600","Curbside","Curbside","None","Curbside","Yes",NA,"No",34908.89,2548.1,NA,NA,6200,"NC",1496.36629555027,21126,45754,59049,6.5,68.5,25,0.4102
+"241","JAMESTOWN","2","3675","No","No","No","Yes","Yes","1440","1337","1440","Curbside","Curbside","None","Curbside","No",NA,"No",1060.28,285.35,910.38,0,0,"NC",1227.53998160568,1861,65945,99344,1.7,54,44.3,0.4707
+"242","JAMESVILLE","2","422","No","No","No","Yes","No",NA,"205","205","None","Curbside","None",NA,"No",NA,"No",NA,NA,50.35,0,0,"NC",289.764448335142,265,38072,39742,9.1,62.2,28.8,0.4083
+"243","JEFFERSON","2","1620","No","No","No","No","No","602","602","602","Curbside","Curbside","None","None","No",NA,"No",320.24,54.76,NA,NA,NA,"NC",779.013645646867,687,30764,39218,14.3,72,13.7,0.427
+"244","JONESVILLE","2","2306","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,83.86,NA,NA,NA,"NC",799.385037946356,1171,24915,37658,16.9,78.2,4.9,0.4715
+"245","KANNAPOLIS","2","53429","No","No","No","Yes","Yes","18851","18851","18851","Curbside","Curbside","None","Curbside","Yes",NA,"No",17634.39,3466.67,9187,0,1,"NC",1633.23414416893,17569,55923,73695,13.5,61.5,24.8,0.4549
+"246","KELFORD","2","202","No","No","No","No","Yes","120",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",418.868460929236,156,34688,41059,29,67,4,0.4255
+"247","KENANSVILLE","2","764","No","No","No","No","Yes","415","357",NA,"Both","Curbside","None","Curbside","No",NA,"No",377.4,21.56,NA,NA,NA,"NC",363.147058252193,373,39653,49286,10.2,68.9,20.8,0.4228
+"248","KENLY","2","1501","No","No","No","Yes","Yes","622",NA,"622","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,49,0,0,"NC",860.747319291873,834,32833,42254,17.6,71.7,10.6,0.4362
+"249","KERNERSVILLE","2","26497","Yes","No","No","Yes","Yes","7154","7154","7154","Both","Curbside","Backyard","Curbside","Yes",NA,"No",6308,1527,NA,NA,9640,"NC",1481.11307011268,10731,56991,75906,9.9,58.1,31.9,0.4564
+"250","KILL DEVIL HILLS","2","7674","Yes","No","No","Yes","No","7410","7410","7410","Both","Curbside","Backyard","Curbside","Yes",NA,"No",11951.24,569.25,NA,NA,1200,"NC",1365.98673917006,3287,59389,74369,5.7,58.4,35.8,0.375
+"251","KING","2","7190","No","Yes","No","Yes","Yes","2785","2785","2785","Both","Curbside","None","Curbside","Yes",NA,"No",2496,105.32,1001,0,0,"NC",1189.35843181195,2907,66691,78964,10.7,64.5,24.7,0.4376
+"252","KINGS MOUNTAIN","2","11172","No","No","No","Yes","Yes","4190",NA,"4190","None","Curbside","None","Curbside","Yes",NA,"No",7913.92,NA,150,0,0,"NC",832.211019614997,4360,38936,51782,15.9,67,17.2,0.4737
+"253","KINGSTOWN","2","658","No","No","No","Yes","No","265",NA,NA,"None","Curbside","None","None","No",NA,"No",201.8,NA,NA,NA,NA,"NC",373.766887669926,242,31875,53079,21.1,71.2,7.7,0.5702
+"254","KINSTON","2","19873","No","Yes","No","No","Yes","7958","3649","7033","Curbside","Curbside","None","Curbside","Yes",NA,"No",17782.21,637.13,0,2656.69,0,"NC",1078.20298745563,9235,32094,50487,19.8,63.5,16.7,0.5297
+"255","KITTRELL","2","132","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",635.146554701663,46,73000,77330,4,75.3,20.8,0.4083
+"256","KITTY HAWK","2","3698","No","No","No","Yes","No","3233","3233","3233","Both","Curbside","None","Curbside","Yes",NA,"No",6862.34,289.1,NA,NA,47,"NC",456.033084640272,1572,74797,98795,3.4,52.9,43.6,0.4335
+"257","KNIGHTDALE","2","19656","No","No","No","No","Yes","6036","6036","6036","Curbside","Curbside","None","Curbside","No",NA,"No",5399,1263,NA,NA,2492,"NC",2473.67384193329,6522,69529,88866,7.2,49.9,43,0.3934
+"258","KURE BEACH","2","2191","No","No","Yes","Yes","Yes",NA,"2251",NA,"Curbside","Curbside","None","Curbside","No",NA,"No",1906.64,444.34,301.4,0,2.10000000000002,"NC",2490.59943815214,1005,88393,129593,2.9,50.5,46.7,0.4688
+"259","LA GRANGE","2","2591","No","No","No","No","Yes","1450","1250","1250","Curbside","Curbside","None","Curbside","Yes",NA,"No",1443.45,53.08,0,432.36,0,"NC",1124.83243466552,1120,63409,74962,19.6,61.4,19,0.4292
+"260","LAKE LURE","2","1362","No","No","No","Yes","No","1200","163",NA,"Curbside","Curbside","None","None","No",NA,"No",63.25,NA,NA,NA,NA,"NC",103.437645256627,858,60882,96345,1.7,46.2,52,0.5111
+"261","LAKE PARK","2","3282","Yes","No","No","Yes","No","1248","1248","947","Curbside","Curbside","None","Curbside","Yes",NA,"No",1183.23,210.41,168.26,0,0,"NC",4465.90261360648,NA,NA,NA,NA,NA,NA,NA
+"262","LAKE SANTEETLAH","2","38","No","No","No","Yes","No",NA,"196",NA,"Dropoff","Drop-off","None","None","No",NA,"No",NA,6.42,NA,NA,NA,"NC",195.599776200792,22,66500,63359,0,52.5,47.5,0.2746
+"263","LAKE WACCAMAW","2","1287","No","No","No","No","Yes","898","898","898","Curbside","Curbside","None","Curbside","Yes",NA,"No",642,94.54,535,0,0,"NC",462.910804684123,653,53073,72949,16.2,53.9,29.9,0.4872
+"264","LANDIS","2","3700","No","No","No","No","No","1505",NA,NA,"None","Curbside","None","Curbside","No",NA,"No",NA,NA,NA,NA,200,"NC",1091.42475468285,998,65769,68244,7.8,75,17.1,0.37
+"265","LANSING","2","126","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",341.352552570041,106,40313,44335,30,66.9,3.2,0.3654
+"266","LASKER","2","63","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",56.3270827770273,65,NA,63026,9.5,79.1,11.5,0.3971
+"267","LATTIMORE","2","407","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",396.998221588377,133,54792,58614,8.4,77.7,13.9,0.3568
+"268","LAUREL PARK","2","2254","No","No","No","No","No","1269","1269","1269","Curbside","Curbside","None","Curbside","No",NA,"No",631.99,138.05,NA,NA,105,"NC",804.706579114469,1142,73916,94244,3.3,40,56.7,0.4431
+"269","LAURINBURG","2","14916","No","No","Yes","No","Yes","5726","5726","5340","Both","Curbside","None","Curbside","Yes",NA,"No",12693,428,3889,1978,0,"NC",1188.8052020655,5849,29787,53025,15.9,64.4,19.8,0.5546
+"270","LAWNDALE","2","572","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",709.17443665524,258,31071,54733,26.5,62.6,10.8,0.5411
+"271","LEGGETT","2","37","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",52.958172125681,20,40417,88065,20.5,79.4,0,0.6394
+"272","LELAND","2","23049","Yes","No","No","Yes","No","10744","10744",NA,"Curbside","Curbside","None","None","No",NA,"No",NA,1170,NA,NA,NA,"NC",1155.89199004399,9125,73125,84671,4.9,57.7,37.4,0.3639
+"273","LENOIR","2","18324","No","No","No","Yes","Yes","8800","8800","8800","Dropoff","Curbside","None","Curbside","Yes",NA,"No",6814.36,102.74,NA,NA,500,"NC",879.900297493713,7253,39116,53511,16.2,66.1,17.7,0.4481
+"274","LEWISTON WOODVILLE","2","424","No","No","No","Yes","No","230",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",216.777463293127,182,36613,77781,26.9,58,15.1,0.5584
+"275","LEWISVILLE","2","13406","No","No","No","No","No","5009","5009",NA,"Both","Curbside","None","None","Yes",NA,"No",NA,794.39,NA,NA,NA,"NC",927.560476880748,5086,81275,104450,4.1,52.4,43.5,0.474
+"276","LEXINGTON","2","19660","No","No","No","Yes","Yes","8711","8711","8711","Curbside","Curbside","None","Curbside","Yes",NA,"No",8726.24,1045.38,1607.83,0,0,"NC",1093.53876697057,7654,30366,42126,21.7,64.1,14.2,0.4344
+"277","LIBERTY","2","2658","No","No","No","Yes","Yes","1085",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",848.187301487515,1069,43018,54245,24.8,62.4,12.8,0.4486
+"278","LILESVILLE","2","395","Yes","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",397.706429290306,284,33077,44836,4.9,73.2,22,0.4181
+"279","LILLINGTON","2","4744","No","No","No","No","Yes","1361","1361","1658","Curbside","Curbside","None","Curbside","Yes",NA,"No",1990,370,0,427.81,0.189999999999998,"NC",1028.14992272817,911,47277,55534,20.3,65.5,14.2,0.4039
+"280","LINCOLNTON","2","11134","Yes","No","No","Yes","No","4000","1317",NA,"Curbside","Curbside","None",NA,"Yes",NA,"No",5140.34,74.36,NA,NA,NA,"NC",1283.49510789296,4857,35696,49115,17.7,65.2,17.2,0.4607
+"281","LINDEN","2","136","No","No","No","Yes","Yes","60","60",NA,"Curbside","Curbside","None","None","No",NA,"No",59.46,31.22,NA,NA,NA,"NC",269.029044639138,46,50000,63907,19.4,70.9,9.7,0.4261
+"282","LITTLETON","2","556","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",584.590941700097,272,21900,42275,25.4,53.3,21.3,0.5617
+"283","LOCUST","2","4545","No","No","No","Yes","Yes","1700","1700",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",1628.57,298.99,32,0,NA,"NC",560.455752181179,1479,55684,68528,14.5,62.3,23.2,0.3649
+"284","LONG VIEW","2","5095","Yes","No","No","Yes","Yes","1914","1914","1914","Curbside","Curbside","None","Curbside","Yes",NA,"No",2432,308,0,815,0,"NC",1266.16913695656,2066,39174,50494,16.2,75.1,8.6,0.3863
+"285","LOUISBURG","2","3076","No","No","No","No","Yes","1095",NA,"1095","None","Curbside","None","Curbside","No",NA,"No",1043.08,NA,143.67,0,0,"NC",1040.07167589,1070,NA,56279,13.3,65.1,21.6,0.5182
+"286","LOVE VALLEY","2","155","No","No","No","Yes","No","40",NA,NA,"None",NA,"None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",147.334536297421,66,21667,32583,18.5,81.5,0,0.4025
+"287","LOWELL","2","3665","No","No","Yes","Yes","Yes","1642","1642","1642","Dropoff","Curbside","None","Curbside","Yes",NA,"No",1716.78,65.3,NA,NA,NA,"NC",1348.3523876302,1466,42902,59026,18,69.2,12.7,0.4243
+"288","LUCAMA","2","1034","No","No","No","Yes","Yes","447","447","447","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1700.91040023411,344,36667,45960,36.9,54.1,9.1,0.4036
+"289","LUMBER BRIDGE","2","82","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",122.363452490809,37,48750,48065,3.8,90.6,5.7,0.3618
+"290","LUMBERTON","2","18922","No","No","No","Yes","Yes","7500",NA,"7500","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,600,"NC",1066.95477339456,7270,36846,54775,20.3,58,21.6,0.5116
+"291","MACCLESFIELD","2","412","No","No","No","No","No","218",NA,"218","None","Curbside","None",NA,"No",NA,"No",NA,NA,NA,NA,NA,"NC",796.117949550117,152,32353,58849,29.4,56.7,13.8,0.499
+"292","MACON","2","110","No","No","No","Yes","No","56",NA,NA,"None","Curbside","None","None","No",NA,"No",85,NA,NA,NA,NA,"NC",233.602981451067,33,56875,54424,5.5,63.7,30.9,0.308
+"293","MADISON","2","2130","No","Yes","Yes","Yes","Yes","970","850","850","Curbside","Curbside","None","Curbside","Yes",NA,"No",777.93,134.79,NA,NA,1287.52,"NC",601.749974550812,997,43884,50072,12.3,68.4,19.3,0.3985
+"294","MAGGIE VALLEY","2","1736","No","No","No","No","Yes","1121","1121","1470","Curbside","Curbside","None","Curbside","Yes",NA,"No",592,157,243,0,0,"NC",522.250170423521,836,52836,61953,4.4,57.3,38.3,0.3661
+"295","MAGNOLIA","2","824","No","No","No","Yes","Yes","400",NA,"400","Dropoff","Curbside","None","Curbside","Yes",NA,"No",511,NA,54.17,0,0,"NC",771.184936893832,430,36324,54679,45.4,47.9,6.7,0.4439
+"296","MAIDEN","2","3743","No","No","No","Yes","Yes","1592","1592","1592","Curbside","Curbside","None","Curbside","Yes",NA,"No",1351,287,273,0,350,"NC",642.863702938566,1198,78667,76450,9.2,74.4,16.4,0.3476
+"297","MANTEO","2","1604","No","No","No","Yes","No","502","285",NA,"Curbside","Curbside","None","None","Yes",NA,"No",2309.85,214.19,NA,NA,468,"NC",854.61309794272,862,62708,84159,4.3,51,44.7,0.4538
+"298","MARIETTA","2","110","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",98.4599507846593,56,35000,50596,8.8,69.9,21.3,0.417
+"299","MARION","2","7707","No","No","No","Yes","Yes","3200","3200","3200","Curbside","Curbside","None","Curbside","No",NA,"No",4367.67,397.64,475.46,0,0,"NC",1300.82557501724,2914,41117,51235,25.2,58.6,16.1,0.4229
+"300","MARS HILL","2","2006","No","No","No","Yes","No","790","790","790","Curbside","Curbside","None","Curbside","Yes",NA,"No",507.58,57.41,71.25,0,0,"NC",1007.57734385592,856,56000,68948,4.2,49.1,46.8,0.43
+"301","MARSHALL","2","776","No","No","No","Yes","No","535",NA,NA,"None","Curbside","None","None","No",NA,"No",259.58,NA,0,44.3,NA,"NC",194.82030710267,301,34583,48534,29.7,45.3,25,0.4458
+"302","MARSHVILLE","2","2532","No","No","No","No","Yes","900","355","900","Curbside","Curbside","None","Curbside","Yes",NA,"No",660,42,24,0,0,"NC",1193.13835050207,851,42139,48459,25.9,69.7,4.3,0.3558
+"303","MARVIN","2","6385","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1066.65015136441,NA,NA,NA,NA,NA,NA,NA
+"304","MATTHEWS","2","29506","No","No","No","Yes","No","9229","9229","9229","Curbside","Curbside","None","Curbside","Yes",NA,"No",8822.5,2535.53,2541.4,0,0,"NC",1724.02994414021,12125,89881,108629,5.1,41.2,53.7,0.4178
+"305","MAXTON","2","2098","No","No","No","No","Yes","900",NA,"900","Dropoff","Curbside","None",NA,"Yes",NA,"No",1186.05,NA,0,763.02,0,"NC",777.566302464008,1025,23563,35883,20.1,69.1,10.8,0.4896
+"306","MAYODAN","2","2420","No","No","Yes","No","Yes","1034","1034","1034","Curbside","Curbside","None","Curbside","Yes",NA,"No",111,123.33,NA,NA,846,"NC",841.22982235364,1182,28984,45174,21.4,66.9,11.6,0.4852
+"307","MAYSVILLE","2","813","Yes","No","No","No","Yes","383",NA,NA,"None","Curbside","None","None","Yes",NA,"No",374.93,NA,NA,NA,NA,"NC",949.432247881424,360,47500,49792,13.2,68.7,17.9,0.3545
+"308","MCADENVILLE","2","893","No","No","No","Yes","No","379","345",NA,"Curbside","Curbside","None","None","Yes",NA,"No",611,40.99,NA,NA,NA,"NC",658.664451002096,469,89792,98587,6.7,36.3,56.9,0.4216
+"309","MCDONALD","2","93","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",364.597663576092,39,36750,61892,28,54.9,17.2,0.4936
+"310","MCFARLAN","2","94","No","No","No","Yes","Yes","35",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",102.227157448937,33,50313,67527,7.5,74.7,17.9,0.4009
+"311","MEBANE","2","17854","No","No","No","Yes","Yes","5538","5538","5538","Both","Curbside","None","Curbside","Yes",NA,"No",5459,792,NA,NA,1980,"NC",1721.92054927964,6256,61213,74804,5.1,59.3,35.7,0.4372
+"312","MESIC","2","144","No","No","No","Yes","Yes",NA,NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",139.496770974245,91,40156,48138,13.1,81.6,5.4,0.4452
+"313","MICRO","2","462","No","No","No","No","Yes","192","192","192","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,27.25,8.5,0,0,"NC",1101.85670120925,271,26813,44361,11.9,77.5,10.5,0.5275
+"314","MIDDLEBURG","2","101","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",128.638862471152,117,NA,76744,2.8,74,23.3,0.4699
+"315","MIDDLESEX","2","913","Yes","No","No","Yes","Yes",NA,NA,"508","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,826,0,0,"NC",873.568847223073,435,32583,43091,19.5,65.8,14.6,0.4235
+"316","MIDLAND","2","4715","No","No","No","Yes","No","1618","1618",NA,"Curbside","Curbside","None","None","Yes",NA,"No",770.93,127.92,NA,NA,NA,"NC",446.378758477511,1173,73897,78769,6.7,62.2,31.1,0.3161
+"317","MIDWAY","2","4749","No","No","No","Yes","No","2246","2246",NA,"Curbside","Curbside","None","None","Yes",NA,"No",1688.65,371.89,NA,NA,NA,"NC",608.784987590028,1973,58382,70607,6.8,67,26.3,0.3611
+"318","MILLS RIVER","2","7091","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",317.801643255226,3117,66223,83179,6.2,54.3,39.6,0.4284
+"319","MILTON","2","155","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",398.505196222398,107,66250,99277,17.1,55.7,27.2,0.5865
+"320","MINERAL SPRINGS","2","3172","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",386.348041100873,1123,74675,100200,8.9,55.4,35.7,0.453
+"321","MINNESOTT BEACH","2","529","No","No","No","Yes","No","380","325",NA,"Curbside","Curbside","None","None","Yes",NA,"No",202.17,27.88,NA,NA,NA,"NC",152.35842557256,243,46827,71333,2.4,65.9,31.7,0.5073
+"322","MINT HILL","2","26515","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",1086.08843636469,10474,80093,94637,5.3,54.3,40.3,0.3966
+"323","MISENHEIMER","2","650","No","No","No","Yes","No","130","130",NA,"Curbside","Curbside","None","None","Yes",NA,"No",149.88,16.76,NA,NA,NA,"NC",400.400395501558,NA,NA,NA,NA,NA,NA,NA
+"324","MOCKSVILLE","2","5915","No","No","No","Yes","Yes","1942","1942","1942","None","Curbside","None","Dropoff","Yes",NA,"No",1667.82,NA,NA,NA,24,"NC",761.587048559901,1932,45245,60105,14.4,65.8,19.9,0.4769
+"325","MOMEYER","2","277","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",250.810964846205,163,31719,57904,12.6,71.9,15.7,0.5407
+"326","MONROE","2","34715","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","Backyard","Curbside","Yes",NA,"No",11417.42,2440.4,1494.68,0,0,"NC",1134.09630246071,11509,53064,69080,21.5,60.8,17.8,0.411
+"327","MONTREAT","2","902","No","No","No","Yes","No","677","677","677","Both","Curbside","None","Curbside","No",NA,"No",282.36,65.43,NA,NA,NA,"NC",330.882151389796,19,190750,159563,0,16.2,83.8,0.1844
+"328","MOORESBORO","2","294","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",166.350841496758,92,37143,45647,14.2,75.5,10.3,0.4669
+"329","MOORESVILLE","2","50477","No","No","No","Yes","Yes","15392","12270","15392","Both","Curbside","None","Curbside","Yes",NA,"No",16351.07,2513.88,4757.68,0,0,"NC",2030.48938816287,14729,70625,89609,5.7,52.6,41.7,0.4263
+"330","MOREHEAD CITY","2","9540","No","No","No","No","Yes","3996","3996","3996","Curbside","Curbside","Backyard","Curbside","Yes",NA,"Yes",3134.77,616.04,0,1650,0,"NC",1297.07583467228,4663,44802,68982,9.4,57.3,33.3,0.4976
+"331","MORGANTON","2","17431","No","No","No","Yes","Yes","7452",NA,"7452","None","Curbside","Backyard","Curbside","No",NA,"No",6294,NA,1899.27,0,900,"NC",905.787294275686,5945,40406,57377,24.8,54.6,20.6,0.4854
+"332","MORRISVILLE","2","29925","No","No","No","Yes","Yes","6500","6500","6500","Curbside","Curbside","None","Curbside","Yes",NA,"No",4361.33,1542.74,309,0,0.149999999999977,"NC",3389.52753496503,10426,100495,122835,2.8,27.1,70.1,0.3759
+"333","MORVEN","2","329","No","No","No","Yes","Yes","288",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",320.319801865781,218,52788,44086,16.3,72.9,10.8,0.2961
+"334","MOUNT AIRY","2","10674","No","No","Yes","Yes","No","4285","4285","4285","Curbside","Curbside","None","Curbside","Yes",NA,"No",3527,620,0,896,0,"NC",913.078972041272,4704,30483,55713,17.1,59.8,23.1,0.5512
+"335","MOUNT GILEAD","2","1170","No","No","No","No","Yes",NA,NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",335.264898883032,511,30888,40223,17.5,64.6,17.8,0.4375
+"336","MOUNT HOLLY","2","17756","No","Yes","Yes","Yes","Yes","6200","6200","6200","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,500,40,NA,"NC",1622.64233427385,6182,57379,76934,10.2,57.9,32,0.4347
+"337","MOUNT OLIVE","2","4187","Yes","No","No","No","Yes","1879","1879","1879","Both","Both","None","Curbside","Yes",NA,"No",1431.22,224.6,102.12,0,0,"NC",1527.56500651228,1850,38553,64334,21.9,59.2,18.8,0.5325
+"338","MOUNT PLEASANT","2","1689","No","No","No","No","No","680","680","680","Curbside","Curbside","None","Curbside","Yes",NA,"No",591.04,123.89,NA,NA,624,"NC",498.61902538269,729,60078,69594,18.6,62.5,19,0.4062
+"339","MURFREESBORO","2","2598","No","No","No","No","Yes","865","865","865","Curbside","Curbside","None","Curbside","Yes",NA,"No",1236.38,57.01,NA,NA,3800,"NC",1144.5391423834,1157,43662,62234,9.4,63.8,26.8,0.5205
+"340","MURPHY","2","1605","No","No","No","Yes","No","762",NA,NA,"None","Curbside","None","None","No",NA,"No",244,NA,NA,NA,NA,"NC",632.582082127699,877,31682,45224,10.2,59.6,30.2,0.4857
+"341","NAGS HEAD","2","3175","No","No","No","Yes","No","4500","4500","4500","Both","Curbside","None","Curbside","Yes",NA,"No",10811.89,408.97,432.72,0,0,"NC",479.783297939459,1354,78235,92911,1.5,51,47.5,0.4175
+"342","NASHVILLE","2","5635","No","No","No","Yes","Yes","2700","2210","2700","Curbside","Curbside","None","Curbside","Yes",NA,"No",2077.96,313.98,NA,NA,3000,"NC",1200.11510592484,2126,57536,70808,4.5,68.4,27,0.3962
+"343","NAVASSA","2","1375","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",103.171100975269,700,40000,47618,15.9,65.6,18.5,0.3776
+"344","NEW BERN","2","31240","No","No","No","No","Yes","14837",NA,"14837","None","Curbside","None","Curbside","No",NA,"No",9093.74,NA,13623.05,0,-11,"NC",1099.23317139133,13666,43406,66024,14.4,57.9,27.7,0.4806
+"345","NEW LONDON","2","607","No","No","No","No","No","238","238",NA,"Curbside","Curbside","None","None","Yes",NA,"No",274.37,30.67,NA,NA,NA,"NC",307.289118876633,243,63304,76434,9.6,65.6,24.8,0.4075
+"346","NEWLAND","2","712","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",952.204952891746,384,30000,35626,18.4,62.6,19,0.4114
+"347","NEWPORT","2","4357","No","No","No","No","Yes","1624","1573","1624","Curbside","Curbside","None","Curbside","Yes",NA,"No",1345.27,214.27,NA,NA,832,"NC",571.943396752938,1649,57469,69325,13.1,63.2,23.6,0.3999
+"348","NEWTON","2","13173","No","Yes","No","Yes","Yes","5440","3900","5440","Both","Curbside","None","Curbside","Yes",NA,"No",5312.56,260.27,324.46,0,-0.000000000000056843418860808,"NC",954.872580860835,5178,50659,58214,15,65.2,19.8,0.3786
+"349","NEWTON GROVE","2","583","No","No","No","No","Yes","244",NA,NA,"None","Curbside","None","None","Yes",NA,"No",317,NA,NA,NA,NA,"NC",189.178910659252,300,55962,73890,19.4,51.1,29.5,0.4759
+"350","NORLINA","2","917","No","No","No","Yes","Yes","484","430","484","Curbside","Curbside","None","Curbside","Yes",NA,"No",580.8,235,NA,NA,345.6,"NC",824.15289809565,589,29507,47903,11.7,72.7,15.6,0.4699
+"351","NORMAN","2","100","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",177.903837403389,63,38542,38805,16.4,69,14.7,0.3084
+"352","NORTH TOPSAIL BEACH","2","1006","Yes","No","No","No","Yes","2178","1778",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",1629.12,370.9,NA,NA,NA,"NC",161.788095887416,490,54167,86091,1.1,49.8,49,0.5318
+"353","NORTH WILKESBORO","2","4373","Yes","No","No","Yes","Yes","1240","1240","1240","Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,1450,1200,-1450,"NC",659.701198022804,1902,30114,60804,22.9,59.3,17.8,0.5755
+"354","NORTHWEST","2","707","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",98.5910276913684,336,38333,45318,6.9,76.8,16.3,0.4154
+"355","NORWOOD","2","2368","No","No","No","Yes","Yes","1384",NA,"1384","None","Curbside","None","Curbside","No",NA,"No",1172,NA,NA,NA,823,"NC",521.828344545036,989,51088,60977,14.7,71.6,13.6,0.4514
+"356","OAK CITY","2","265","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",264.201690047671,187,50417,44884,9.6,83.6,6.8,0.223
+"357","OAK ISLAND","2","8448","No","No","No","Yes","Yes","10738","10738","10738","Both","Curbside","None","Curbside","Yes",NA,"No",775,2632.85,NA,NA,6841,"NC",438.403214381276,3881,71193,93638,4.5,55.9,39.5,0.4414
+"358","OAK RIDGE","2","7488","No","No","No","No","No","2666","2106",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",2710.39,871.81,22.86,0,0,"NC",454.671244316358,2298,124342,140222,1,49.1,49.8,0.3683
+"359","OAKBORO","2","2129","No","No","No","Yes","Yes","1073","930",NA,"Both",NA,"None","None","No",NA,"No",823.49,165.25,NA,NA,NA,"NC",858.595065883578,929,62141,71183,10,69.3,20.7,0.3548
+"360","OCEAN ISLE BEACH","2","872","No","No","No","Yes","No","2719","2719","2719","Curbside","Curbside","None","Curbside","Yes",NA,"No",1015,836,400,0,0,"NC",233.05652005475,379,93750,128172,1.1,42.6,56.3,0.4995
+"361","OLD FORT","2","810","No","No","No","No","No","482",NA,NA,"None","Curbside","None","None","No",NA,"No",388.21,NA,NA,NA,NA,"NC",663.465872999102,336,28269,45042,21.9,71.9,6.1,0.4811
+"362","ORIENTAL","2","878","No","No","No","Yes","Yes","687","687","687","Curbside","Curbside","None","Curbside","Yes",NA,"No",474.77,167.97,203.47,0,0,"NC",613.947224207076,611,62734,75367,0.7,47.2,52,0.415
+"363","ORRUM","2","59","No","No","No","No","No","40",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",123.374788271469,32,26250,38619,24.1,70.4,5.6,0.4237
+"364","OSSIPEE","2","538","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",133.26,58.31,NA,NA,NA,"NC",886.643027754825,184,49318,53629,24.6,64.6,10.9,0.3588
+"365","OXFORD","2","8632","No","No","No","No","Yes","3238","3238","3238","Curbside","Curbside","None","Curbside","Yes",NA,"No",2459.96,444.72,NA,NA,2496,"NC",1385.10438619784,3607,39059,54743,13.3,64.2,22.5,0.4511
+"366","PANTEGO","2","164","No","No","No","Yes","No","85",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",204.308924674423,97,88125,82237,8.9,61.2,29.9,0.3782
+"367","PARKTON","2","501","No","No","No","Yes","Yes","252","252","260","Curbside","Curbside","None","Curbside","Yes",NA,"No",166.2,92.53,0,73.45,0,"NC",642.380104615926,182,50000,61120,14.5,68.6,16.8,0.4013
+"368","PARMELE","2","242","No","No","No","Yes","No",NA,NA,"10","None","Curbside","None","Curbside","No",NA,"No",NA,NA,0,23.94,-0.0300000000000011,"NC",208.960046665202,132,25000,34645,11.4,73.2,15.5,0.3617
+"369","PATTERSON SPRINGS","2","573","No","No","No","Yes","No","185",NA,NA,"None","Curbside","None","None","No",NA,"No",171.29,NA,NA,NA,NA,"NC",604.417512211809,314,35938,51230,12.1,77.8,10.1,0.5844
+"370","PEACHLAND","2","390","No","No","No","Yes","No",NA,NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",386.915731204374,149,42813,59950,26,65.8,8.1,0.4327
+"371","PELETIER","2","768","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",212.27951680985,312,37885,43686,5.3,78.7,15.9,0.4234
+"372","PEMBROKE","2","2807","No","No","No","Yes","Yes","779","390","779","Both","Curbside","None","Curbside","Yes",NA,"No",4342.35,130.06,0,111.63,9.72,"NC",883.022094523902,852,21786,33741,20.2,56.5,23.2,0.5396
+"373","PIKEVILLE","2","710","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,52.95,0,NA,"NC",940.210804887851,289,49659,60888,20.5,60.8,18.7,0.4196
+"374","PILOT MOUNTAIN","2","1440","Yes","No","No","Yes","Yes","565","565","565","Curbside","Curbside","None","Curbside","Yes",NA,"No",571.61,60.81,1750,0,0,"NC",707.262018841064,751,35306,58373,17.3,56.4,26.3,0.5297
+"375","PINE KNOLL SHORES","2","1386","No","No","No","No","Yes","1157","1387","1022","Both","Curbside","None","Curbside","No",NA,"No",708.2,313.91,NA,NA,886,"NC",627.515020593483,635,82361,111195,0.6,43.3,56,0.4439
+"376","PINE LEVEL","2","2062","No","No","Yes","Yes","Yes","895","650","895","Curbside","Curbside","None","Curbside","Yes",NA,"No",1118.02,28.56,266.94,0,0,"NC",1199.48276752502,777,50341,55076,16.3,67.5,16.2,0.3534
+"377","PINEBLUFF","2","1479","No","No","No","Yes","Yes","630",NA,"647","None","Curbside","None",NA,"No",NA,"No",554.98,NA,0,747.34,0,"NC",565.683476996738,672,61023,63800,5.4,73.4,21.2,0.2875
+"378","PINEHURST","2","17651","No","No","No","Yes","No","8789","8789","8789","Curbside","Curbside","None","Curbside","Yes",NA,"No",5670.9,1017.74,2274.66,0,0,"NC",1056.42968615192,NA,NA,NA,NA,NA,NA,NA
+"379","PINETOPS","2","1196","No","Yes","No","Yes","Yes","552","552","552","Curbside","Curbside","None","Curbside","Yes",NA,"No",977.2,96.99,0,228,0,"NC",1191.93915524432,625,38777,52059,23.4,63.3,13.3,0.4587
+"380","PINEVILLE","2","10628","No","No","No","Yes","No","2315","2315","2315","Curbside","Curbside","None","Curbside","Yes",NA,"No",1912.28,277.3,311.9,0,0.0900000000000318,"NC",1600.37339784823,3602,53873,71312,5,53.3,41.7,0.442
+"381","PINK HILL","2","450","No","No","No","No","Yes","229",NA,NA,"None","Curbside","None","None","Yes",NA,"No",319.84,NA,NA,NA,NA,"NC",968.886303214173,279,36211,40292,30.8,55.2,14,0.3826
+"382","PITTSBORO","2","4556","No","No","No","No","Yes","1750",NA,NA,"Curbside","Curbside","None","Curbside","No",NA,"No",1295,326,319,0,0,"NC",942.683634235658,1861,42114,64896,6.1,53.1,40.8,0.4497
+"383","PLEASANT GARDEN","2","5009","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",333.333404706519,1657,83266,92264,6.6,69.5,23.8,0.4023
+"384","PLYMOUTH","2","3300","Yes","No","No","No","Yes","1550",NA,"1550","None","Curbside","None","Curbside","Yes",NA,"No",2012.56,NA,0,720.57,0,"NC",819.026489930729,1573,17594,37523,22.4,70.9,6.7,0.5848
+"385","POLKTON","2","2249","No","No","No","Yes","Yes","348",NA,NA,"None","Curbside","None","None","Yes",NA,"No",279,NA,NA,NA,NA,"NC",736.496618314604,499,43875,49284,23.7,71.5,4.9,0.3578
+"386","POLKVILLE","2","517","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",277.511225227559,189,41328,45337,15.9,64.3,19.9,0.4058
+"387","POLLOCKSVILLE","2","266","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",847.14445240407,114,36250,39898,1.9,75.8,22.3,0.4148
+"388","POWELLSVILLE","2","188","No","No","No","Yes","Yes","160",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",527.077941403715,140,36000,39545,14.5,72.8,12.7,0.2337
+"389","PRINCETON","2","1326","Yes","No","No","Yes","Yes","673","673","673","Curbside","Curbside","None","Curbside","Yes",NA,"No",749.01,24.77,0,211.21,0,"NC",1164.6569924904,577,31349,49527,25.5,56.2,18.2,0.4651
+"390","PRINCEVILLE","2","1250","No","Yes","Yes","No","Yes","523","523",NA,"Curbside",NA,"None","Curbside","Yes",NA,"No",945.57,13.67,945.57,0,NA,"NC",826.103810627048,719,33325,41380,26.3,66.7,6.9,0.4117
+"391","PROCTORVILLE","2","120","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",264.376448302173,100,NA,39736,5.7,83.4,10.8,0.4311
+"392","RAEFORD","2","4553","Yes","No","No","No","Yes","2500","2500","2500","Both","Curbside","None","Curbside","Yes",NA,"No",1370.04,702.5,NA,NA,11232,"NC",1062.74332417502,1814,34231,48729,14.3,66,19.6,0.4807
+"393","RALEIGH","2","468977","Yes","No","No","Yes","Yes","123301","184460","123301","Both","Curbside","Backyard","Curbside","Yes",NA,"No",100489.65,30205.05,35875,0,-23054,"NC",3187.80666514885,187517,69720,98016,7.7,40.8,51.4,0.4682
+"394","RAMSEUR","2","1776","No","No","No","Yes","Yes","806",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",669.4,NA,138,0,0,"NC",891.765785921411,680,23542,33229,19.1,70.8,10.1,0.4233
+"395","RANDLEMAN","2","4608","Yes","Yes","No","Yes","Yes","2465",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",2054.9,NA,9,0,NA,"NC",1134.04074491914,1444,57598,69467,20.6,63.6,15.7,0.4582
+"396","RANLO","2","4525","No","No","No","No","Yes","1700",NA,"1700","None","Curbside","None","Curbside","Yes",NA,"No",2104.16,NA,NA,NA,250,"NC",2489.36548190915,1262,66360,72148,12.8,72.7,14.4,0.3983
+"397","RAYNHAM","2","60","No","No","No","Yes","No","25",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",493.008656618212,24,NA,49992,10.8,81,8.1,0.5413
+"398","RED CROSS","2","762","No","No","No","Yes","No","314","314",NA,"Curbside","Curbside","None","None","Yes",NA,"No",430,41,NA,NA,NA,"NC",212.934211039792,337,39777,55568,9.8,81.9,8.3,0.4066
+"399","RED OAK","2","3344","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",171.2156000622,1479,73010,102345,5.7,59.8,34.4,0.4678
+"400","RED SPRINGS","2","3069","No","No","No","Yes","Yes","1600","1600","1600","Dropoff","Curbside","None","Curbside","No",NA,"No",1212.2,793.04,NA,NA,17280,"NC",876.736670662904,1308,24427,36787,20.1,58.1,21.8,0.5044
+"401","REIDSVILLE","2","14593","No","Yes","No","Yes","Yes","5600",NA,"5600",NA,"Curbside","None",NA,"Yes",NA,"No",7572,NA,2633,0,20,"NC",986.651525504515,6466,35802,46732,19.4,62.1,18.5,0.4381
+"402","RENNERT","2","273","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",247.565631650081,166,29500,39575,25.1,63.5,11.4,0.5385
+"403","RHODHISS","2","994","Yes","No","No","Yes","Yes","446",NA,NA,"None","Curbside","None","Dropoff","Yes",NA,"No",436.62,NA,124,0,0,"NC",836.884983337771,347,38625,50466,26.5,66.5,7,0.4495
+"404","RICH SQUARE","2","884","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",286.49274880631,340,30870,49602,22.1,64.9,13.1,0.498
+"405","RICHFIELD","2","582","No","No","No","No","No",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",240.264611421492,297,67028,70499,6.5,68.5,24.9,0.3112
+"406","RICHLANDS","2","2290","No","No","No","Yes","Yes","921","921","921","Curbside","Curbside","None","Curbside","Yes",NA,"No",855.61,123.24,NA,NA,611.41,"NC",1403.25618931944,818,52059,64277,7.7,73.9,18.5,0.4326
+"407","RIVER BEND","2","2897","No","No","No","Yes","No","1500","1500","1500","None","Curbside","None","Curbside","Yes",NA,"No",72,27,343.52,0,0,"NC",1152.84918343731,1343,67750,78008,7,60.8,32.4,0.3936
+"408","ROANOKE RAPIDS","2","15158","Yes","No","No","Yes","Yes","6100",NA,NA,"Dropoff","Curbside","None","Curbside","Yes",NA,"No",6051.97,65.75,NA,NA,12467,"NC",1529.10296777586,6118,38500,53559,15,64.8,20.3,0.4842
+"409","ROBBINS","2","1173","No","No","No","Yes","Yes","431","553","431","None","Curbside","None","Curbside","No",NA,"No",5316,14,500,0,0,"NC",736.76885367912,558,42743,55394,45.7,49.6,4.8,0.482
+"410","ROBBINSVILLE","2","596","No","No","No","No","No","266","50",NA,"Curbside","Curbside","None","None","No",NA,"No",312.76,3.64,NA,NA,NA,"NC",897.516308411332,387,16150,25320,45.6,48,6.5,0.4906
+"411","ROBERSONVILLE","2","1263","No","No","No","Yes","No","880",NA,"880","None","Curbside","None","Curbside","No",NA,"No",116,NA,104,0,16,"NC",1042.11890975789,721,41776,49447,13.7,73.9,12.5,0.3779
+"412","ROCKINGHAM","2","9199","Yes","No","No","Yes","Yes","4775",NA,"4775","None","Curbside","None","None","No",NA,"No",4271.44,NA,669.87,0,0,"NC",1203.59848555373,3830,35909,49717,11.5,69.4,19,0.485
+"413","ROCKWELL","2","2308","No","No","No","Yes","Yes","950",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",996.61,NA,NA,NA,NA,"NC",1358.84072935001,815,49750,58672,13.6,59.6,26.8,0.3413
+"414","ROCKY MOUNT","2","54309","No","Yes","No","Yes","Yes","22833","22833","19470","Both","Curbside","None","Curbside","Yes",NA,"No",79848.14,2499.73,NA,NA,34309.26,"NC",1207.29496533694,22475,42691,58455,14.8,64.1,21.1,0.476
+"415","ROLESVILLE","2","9639","No","No","No","No","Yes","3586","3586","3586","Curbside","Curbside","None","Curbside","Yes",NA,"No",3314.17,722.72,300,0,0,"NC",1976.58955957154,2595,126793,128752,3,34.6,62.5,0.3442
+"416","RONDA","2","437","No","No","No","Yes","No","185","185",NA,"Curbside","Curbside","None","None","Yes",NA,"No",170.94,32.27,NA,NA,NA,"NC",403.12793215044,238,41250,54871,36.2,53.2,10.6,0.4217
+"417","ROPER","2","482","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",562.77057482519,328,19609,25596,25,61.2,13.8,0.4422
+"418","ROSE HILL","2","1359","Yes","No","No","No","Yes","625","80","625","Both","Curbside","None","Curbside","Yes",NA,"No",937.07,18.96,0,171.12,0,"NC",941.652853227504,703,38359,45346,18.9,70.1,10.9,0.3782
+"419","ROSEBORO","2","1159","No","No","No","Yes","Yes","585","697","697","Dropoff","Curbside","None","Curbside","Yes",NA,"No",647.4,26.75,0,339.58,0,"NC",801.211406010001,450,34821,45204,21.4,62.8,15.7,0.4246
+"420","ROSMAN","2","699","No","No","No","No","Yes","399",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1280.31983150182,438,43281,36382,18.4,78.6,3.1,0.3243
+"421","ROWLAND","2","880","No","No","No","Yes","Yes",NA,NA,NA,"Dropoff","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",836.321261952639,496,23000,33223,15.6,70.4,14,0.4506
+"422","ROXBORO","2","8131","No","No","No","Yes","No","3495",NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",7986,NA,NA,NA,2000,"NC",1156.48146886292,3455,32753,56421,21.4,65.4,13.3,0.5555
+"423","ROXOBEL","2","186","No","No","No","No","Yes","87",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",178.344186726488,87,NA,46055,42.7,47.2,10.1,0.4691
+"424","RURAL HALL","2","3357","No","No","No","Yes","No","1028","1028","1028","Curbside","Curbside","None","Curbside","Yes",NA,"No",955,118,NA,NA,NA,"NC",1177.16993466123,1440,49964,72473,10.3,70.6,19.1,0.4973
+"425","RUTH","2","346","No","No","No","Yes","Yes","154","154",NA,"Curbside","Curbside","None","None","Yes",NA,"No",137.19,17.62,NA,NA,NA,"NC",815.338306049239,244,38750,43108,19.7,67.9,12.4,0.4231
+"426","RUTHERFORD COLLEGE","2","1223","Yes","No","No","Yes","Yes","621","621",NA,"Curbside","Curbside","None","None","Yes",NA,"No",563.6,10.31,NA,NA,NA,"NC",532.336852979942,512,43400,53719,8.6,66.9,24.5,0.4425
+"427","RUTHERFORDTON","2","3631","No","No","No","Yes","Yes","1400","1400","1400","Curbside","Curbside","None","Curbside","Yes",NA,"No",1512.54,306.45,7500,0,0,"NC",881.365524807745,1859,46144,59805,8.7,57.5,33.8,0.48
+"428","SALEMBURG","2","455","No","Yes","No","No","Yes","252","252","252","Both","Curbside","None","Curbside","No",NA,"No",407.14,52.18,0,9.65,0,"NC",466.507313122674,177,38750,52110,0.8,70.5,28.8,0.4382
+"429","SALISBURY","2","36215","Yes","No","Yes","Yes","Yes","11100","6650","11000","Curbside","Curbside","None","Curbside","Yes",NA,"No",9898.07,1622.79,1453.8,0,1436.843,"NC",1659.97033166738,12401,43364,63820,12.3,62.7,25.1,0.5042
+"430","SALUDA","2","628","No","No","No","No","Yes","508","464",NA,"Curbside","Curbside","None","None","Yes",NA,"No",301.57,77.37,NA,NA,NA,"NC",403.758620799081,356,42197,61083,9.1,45.7,45.1,0.4421
+"431","SANDY CREEK","2","250","No","No","No","Yes","No",NA,NA,NA,"None",NA,"None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",175.271625592915,101,43125,60091,24.1,70.6,5.3,0.5109
+"432","SANDYFIELD","2","427","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",138.623736739677,227,28194,37648,22.6,69.2,8.1,0.4714
+"433","SANFORD","2","30398","Yes","No","No","Yes","Yes","9288","9288","9288","Curbside","Curbside","None","Curbside","Yes",NA,"No",10726.83,2295.35,6772.6,0,0,"NC",1037.2344523262,10202,47017,64495,18.4,60.3,21.3,0.4641
+"434","SARATOGA","2","352","No","Yes","No","Yes","Yes","194","191",NA,"Curbside","Curbside","None","None","Yes",NA,"No",194.27,14.82,NA,NA,NA,"NC",556.564370648372,158,NA,47044,19,67.1,13.9,0.4257
+"435","SAWMILLS","2","5012","Yes","No","No","Yes","Yes","1789","1600",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",274.06,220.38,17,0,0,"NC",758.916164001613,1848,55296,58989,23.9,65.6,10.4,0.4055
+"436","SCOTLAND NECK","2","1633","Yes","No","No","Yes","Yes","862",NA,NA,"None","Curbside","None","Curbside","No",NA,"No",1224.56,NA,NA,NA,NA,"NC",1374.71355085229,963,15404,30371,30.6,56.7,12.8,0.565
+"437","SEABOARD","2","535","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",555.566592723293,356,20556,68174,21.8,62.9,15.2,0.6743
+"438","SEAGROVE","2","235","No","No","No","Yes","No",NA,NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",204.755436454372,187,55694,55471,7.5,68.2,24.2,0.259
+"439","SEDALIA","2","677","No","No","No","Yes","No","275","275",NA,"Curbside","Curbside","None","None","No",NA,"No",322.4,75.9,NA,NA,NA,"NC",338.616831226728,190,54643,68355,13.7,66.9,19.4,0.3938
+"440","SELMA","2","6368","No","No","No","Yes","Yes","2446","2346","2346","Curbside","Curbside","None","Curbside","Yes",NA,"No",2665.42,281.67,1220,0,0,"NC",1178.38711698255,2561,23161,35503,21.6,66.9,11.5,0.4694
+"441","SEVEN DEVILS","2","312","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",140.731835797754,209,74792,92114,2.2,38.3,59.5,0.4173
+"442","SEVEN SPRINGS","2","55","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",162.565715385441,14,23750,29929,30,70,0,0.2815
+"443","SEVERN","2","189","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",186.932767457296,119,28125,36061,8.4,87.2,4.5,0.3545
+"444","SHALLOTTE","2","4210","No","No","No","Yes","No",NA,"1529",NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,332,NA,NA,NA,"NC",466.741850252095,1880,58306,68987,4.2,71,24.8,0.4729
+"445","SHARPSBURG","2","1696","No","No","No","Yes","Yes","922","922","922","Curbside","Curbside","None","Curbside","Yes",NA,"No",663.48,182.12,NA,NA,582.4,"NC",1682.80203511733,622,27429,40931,24.2,62.5,13.3,0.4637
+"446","SHELBY","2","21975","Yes","No","No","No","Yes","8150",NA,"7485","None","Curbside","None","Curbside","Yes",NA,"No",9245,NA,5808,0,0,"NC",984.885891629972,8636,39398,53182,13.4,59.8,26.8,0.4684
+"447","SILER CITY","2","7733","No","Yes","No","Yes","No","3716","3716","3716","Curbside","Curbside","None","Curbside","Yes",NA,"No",3005.17,780,2017.47,0,0,"NC",1285.47665727116,2912,38977,59611,29.4,57.5,13,0.5232
+"448","SIMPSON","2","390","No","No","No","Yes","No","215","215","215","Curbside","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1056.84268552587,NA,NA,NA,NA,NA,NA,NA
+"449","SIMS","2","275","No","No","No","No","Yes","174","170","174","Curbside","Curbside","None","Curbside","Yes",NA,"No",288.4,28.6,NA,NA,NA,"NC",1437.09389998002,157,52552,56910,15.7,54.9,29.5,0.3005
+"450","SMITHFIELD","2","11378","Yes","No","No","No","Yes","5023","5023","5023","Both","Both","None","Curbside","Yes",NA,"No",5744.85,109.13,695,0,0,"NC",945.937231013785,5015,34077,55924,20.7,55.1,24.2,0.5374
+"451","SNOW HILL","2","1479","No","No","No","No","Yes","802","802","802","Dropoff","Curbside","None","Curbside","No",NA,"No",325.5,35.9,NA,NA,50,"NC",961.245806525799,884,28100,44445,16.8,72.1,11.2,0.4714
+"452","SOUTHERN PINES","2","15607","No","Yes","No","Yes","Yes","7356","7356","5883","Curbside","Curbside","None","Curbside","Yes",NA,"No",5634,1282,4353,0,0,"NC",910.720178000778,6188,70549,96801,5.7,39.2,55,0.5101
+"453","SOUTHERN SHORES","2","3097","No","No","No","Yes","No","2600","2600","2600","Curbside","Curbside","None","Curbside","No",NA,"No",2821.01,708.96,669.5,0,0,"NC",784.573354628993,1145,106523,152897,1.5,39.9,58.5,0.4325
+"454","SOUTHPORT","2","4059","No","No","No","No","Yes","2188","2188","2188","Curbside","Curbside","None","Curbside","No",NA,"No",NA,NA,NA,NA,64,"NC",1017.86515732756,1629,62663,88141,6.1,65.7,28.2,0.4954
+"455","SPARTA","2","1831","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",779.532275850595,900,32347,40879,26.6,57.6,15.8,0.4254
+"456","SPEED","2","63","No","No","No","Yes","No","38",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",222.554003315616,42,21563,36257,14.9,85.1,0,0.4534
+"457","SPENCER","2","3317","Yes","No","No","No","Yes","1311","1311","1311","Dropoff","Curbside","None","Curbside","Yes",NA,"No",1594.45,71.4,2340,0,0,"NC",1072.9589885755,1167,54556,64642,21.7,58.9,19.3,0.4583
+"458","SPENCER MOUNTAIN","2","0","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",0,0,NA,NA,NA,NA,NA,NA
+"459","SPINDALE","2","4215","No","No","No","Yes","No","1503","1503","1503","Curbside","Curbside","None","Curbside","Yes",NA,"No",1378.55,159.14,NA,NA,80,"NC",778.640833860271,1746,30755,44274,19.1,61.6,19.4,0.4158
+"460","SPRING HOPE","2","1310","No","No","No","Yes","Yes","657","657",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",526.35,48.31,NA,NA,NA,"NC",865.93135058832,621,33482,46475,23.2,61.8,15,0.438
+"461","SPRING LAKE","2","11662","Yes","No","No","No","Yes","3536","3536","3536","Curbside","Curbside","None","Curbside","Yes",NA,"No",1978.55,204.63,725.22,0,-78.78,"NC",493.40283206406,4423,39898,52291,7.2,65.4,27.4,0.4526
+"462","SPRUCE PINE","2","2194","No","No","No","Yes","No","953",NA,"953","None","Curbside","None","Curbside","No",NA,"No",604.41,NA,NA,NA,280.8,"NC",468.601203079915,952,45435,70831,17.6,63.8,18.7,0.5663
+"463","STALEY","2","398","No","No","No","Yes","No",NA,NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",343.332025895205,137,50083,50812,10.7,83.1,6.3,0.3307
+"464","STALLINGS","2","16180","No","No","No","Yes","No",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,330.1,0,NA,"NC",1936.51496522716,5511,90012,108727,6.4,46.7,47,0.3755
+"465","STANFIELD","2","1586","No","No","No","Yes","No","610","610",NA,"Curbside","Curbside","None","None","Yes",NA,"No",966.92,176.44,NA,NA,NA,"NC",354.799511101435,567,80795,89894,7.7,70.3,22,0.4186
+"466","STANLEY","2","3974","No","No","No","Yes","No","1983","1983","0","Curbside","Curbside","None","None","Yes",NA,"No",1001.29,190.73,NA,NA,0,"NC",1474.19731789006,1348,61786,71126,9.2,71.8,19.1,0.3583
+"467","STANTONSBURG","2","761","No","No","No","No","Yes","466","428","466","Curbside","Curbside","None","Curbside","Yes",NA,"No",569.93,104.36,200,115,0,"NC",1294.73714935558,237,51458,69349,20.2,61.2,18.6,0.4915
+"468","STAR","2","805","No","No","No","No","Yes","331",NA,"331","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",622.936684756199,383,32258,49666,29,53.4,17.7,0.3937
+"469","STATESVILLE","2","28567","No","Yes","No","Yes","Yes","14850","12320","14850","Curbside","Curbside","None","Curbside","Yes",NA,"No",10500.01,970,3526.72,0,0,"NC",1148.98931575213,10963,42004,59331,13.2,59.8,27.1,0.4549
+"470","STEDMAN","2","1277","No","No","No","Yes","No","590","0","0","None","Curbside","None","None","No",NA,"No",580.75,0,NA,NA,0,"NC",756.621798967696,600,83068,94700,2.3,63.8,33.9,0.3511
+"471","STEM","2","961","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",635.982176503131,466,73750,100380,9.7,61.8,28.4,0.4367
+"472","STOKESDALE","2","5935","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",312.07605432965,1790,90943,115427,4.1,63,32.8,0.4134
+"473","STONEVILLE","2","1309","No","No","No","No","Yes","545","545","545","Curbside","Curbside","None","Curbside","No",NA,"No",NA,90.35,NA,NA,124.8,"NC",915.346801635574,491,46250,59637,18.5,71.8,9.7,0.4204
+"474","STONEWALL","2","214","No","No","No","Yes","No","319",NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",125.397075352889,143,NA,61129,5,92.9,2,0.5709
+"475","STOVALL","2","324","No","No","No","Yes","Yes","207",NA,NA,"None","Curbside","None","None","No",NA,"No",189.07,NA,NA,NA,NA,"NC",309.573122298546,122,42222,53295,18.9,66.8,14.3,0.3677
+"476","SUGAR MOUNTAIN","2","369","No","No","No","Yes","No","1500",NA,"1500","None","Both","None","Curbside","No",NA,"No",865.99,NA,40,0,0,"NC",150.073884329737,NA,NA,NA,NA,NA,NA,NA
+"477","SUMMERFIELD","2","10971","No","No","No","No","Yes",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",415.681641930212,3925,109577,145966,3.8,40.4,55.7,0.4643
+"478","SUNSET BEACH","2","4201","Yes","No","No","No","Yes","1364","994","5318","Curbside","Curbside","None","Curbside","Yes",NA,"No",0,452,0,546,0,"NC",602.880197602479,2079,61458,76691,1.1,56.3,42.6,0.4477
+"479","SURF CITY","2","3874","No","No","No","No","Yes","4603","4603",NA,"Curbside","Curbside","None","Curbside","No",NA,"No",2705.14,816.93,NA,NA,NA,"NC",509.493758273547,1223,75104,97682,2.1,50.9,47.1,0.4724
+"480","SWANSBORO","2","3750","No","No","No","No","Yes","1991","1991",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",495.3,319.32,145,0,0,"NC",1683.29438360726,1411,66844,78891,7.2,50.1,42.7,0.3915
+"481","SWEPSONVILLE","2","2453","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1718.6686475556,900,65802,77092,9.7,60.3,30,0.3641
+"482","SYLVA","2","2578","No","No","No","Yes","No","1715","264","1708","Curbside","Curbside","None","Curbside","No",NA,"No",827.7,44.79,373.77,0,0,"NC",812.848177121252,1031,36637,48194,19.3,41.5,39.1,0.4513
+"483","TABOR CITY","2","3762","No","No","No","No","Yes","1172",NA,"1172","None","Curbside","None","Curbside","Yes",NA,"No",970.02,NA,0,360.23,0,"NC",1118.84317201525,997,31968,46712,27.1,66.8,6,0.495
+"484","TAR HEEL","2","89","No","No","No","No","No",NA,NA,NA,"None","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",393.781301523473,59,21648,52014,19.8,69.8,10.5,0.5352
+"485","TARBORO","2","10685","No","No","No","No","Yes","4145","4145","4145","Both","Curbside","None","Curbside","Yes",NA,"No",5324,71,1100,0,0,"NC",921.774073493768,4763,41223,56959,15.3,59.8,24.9,0.485
+"486","TAYLORSVILLE","2","2316","No","No","No","Yes","Yes","1087","913",NA,"Curbside","Curbside","None","None","Yes",NA,"No",857,127,NA,NA,NA,"NC",966.828749532947,879,31920,55219,17,66.7,16.2,0.573
+"487","TAYLORTOWN","2","637","No","No","No","Yes","No","343",NA,NA,"None","Drop-off","None","None","No",NA,"No",302.16,NA,NA,NA,NA,"NC",472.922129508357,407,52917,67514,15.8,64.3,19.9,0.3978
+"488","TEACHEY","2","444","No","No","No","No","Yes","179",NA,NA,"None","Curbside","None","None","Yes",NA,"No",154.77,NA,NA,NA,NA,"NC",432.798017998031,208,42381,43845,17.1,71.8,11.1,0.2997
+"489","THOMASVILLE","2","27223","No","No","No","Yes","Yes","11070","11070","11070","Curbside","Curbside","None",NA,"Yes",NA,"No",14084,494,2931,0,1,"NC",1623.26060353802,10850,42257,52631,19.7,66.4,13.8,0.3975
+"490","TOBACCOVILLE","2","2583","No","No","No","Yes","No","1179","1179","0","Curbside","Curbside","None","None","Yes",NA,"No",1019.39,186.51,NA,NA,0,"NC",337.64382174611,NA,NA,NA,NA,NA,NA,NA
+"491","TOPSAIL BEACH","2","462","No","No","No","Yes","Yes","1382","1382","1382","Dropoff","Curbside","None","Curbside","Yes",NA,"No",937.39,129.42,0,85,0,"NC",105.234661493407,219,79375,134068,4.9,33.3,61.8,0.5475
+"492","TRENT WOODS","2","4066","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1367.91314480243,1648,99052,143321,2.8,41.3,56,0.445
+"493","TRENTON","2","237","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",1043.82081723418,94,33750,56255,20.7,66.9,12.4,0.4396
+"494","TRINITY","2","7015","No","No","No","No","Yes","2126",NA,NA,"None","Curbside","None","None","Yes",NA,"No",2767.78,NA,NA,NA,NA,"NC",415.596399216716,2663,58709,74981,12.1,68.7,19.1,0.4465
+"495","TROUTMAN","2","3718","No","No","No","Yes","Yes","1811","1811","1811","Curbside","Curbside","None","Curbside","Yes",NA,"No",1792,261,1837.5,0,0,"NC",647.227509019099,988,62800,85718,6.5,58.3,35.2,0.4551
+"496","TROY","2","2848","No","No","No","Yes","Yes",NA,NA,NA,"None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",778.208120621631,1123,32102,46123,15.3,72.2,12.5,0.48
+"497","TRYON","2","1553","No","No","Yes","Yes","Yes","803","803","803","Curbside","Curbside","None","Curbside","No",NA,"No",805.5,121.32,168.67,40,0,"NC",777.51786570889,838,45403,55880,4.6,41.3,54.1,0.4227
+"498","TURKEY","2","212","No","No","No","No","Yes","136","136",NA,"Curbside","Curbside","None","None","No",NA,"No",166.44,18.2,NA,NA,NA,"NC",534.696808713257,134,NA,44646,11.8,85.2,3.1,0.3885
+"499","UNIONVILLE","2","6671","No","No","No","No","No",NA,NA,NA,"None",NA,"None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",228.323194531687,2905,78776,88855,8.8,65.3,25.8,0.3917
+"500","VALDESE","2","4677","No","No","No","Yes","Yes","1711","1711","1711","Curbside","Curbside","None","Curbside","Yes",NA,"No",1391.29,282.35,NA,NA,852,"NC",595.065544194427,1616,58485,69370,15.4,57.6,27,0.4131
+"501","VANCEBORO","2","867","Yes","No","No","No","Yes","443",NA,"443","None","Curbside","None","Curbside","Yes",NA,"No",367,NA,405.39,0,0,"NC",505.775131404678,448,40625,46367,14.4,73.4,12.1,0.403
+"502","VANDEMERE","2","246","No","No","No","Yes","Yes","109",NA,NA,"None","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",161.600816487803,121,32917,59329,15.7,74.3,9.9,0.5418
+"503","VARNAMTOWN","2","528","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",598.76724026828,295,60280,56947,9.2,77.9,13,0.3329
+"504","VASS","2","956","No","No","No","No","Yes","511",NA,"511","None","Curbside","None","Curbside","Yes",NA,"No",516.23,NA,NA,NA,10.4,"NC",294.64058232572,305,36506,53261,12,71.3,16.6,0.3861
+"505","WACO","2","311","No","No","No","Yes","No","131","131",NA,"Curbside","Curbside","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",371.257199333385,117,33906,44079,24.7,65.3,10,0.4564
+"506","WADE","2","638","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",366.663763017564,268,42500,58648,5.7,78.3,16,0.5265
+"507","WADESBORO","2","5002","No","No","No","Yes","Yes","1952",NA,"1952","None","Curbside","None","Curbside","Yes",NA,"No",3239,NA,1200,0,50,"NC",758.35528100537,2148,25354,42249,24.1,66.5,9.4,0.4792
+"508","WAGRAM","2","612","No","No","No","No","Yes","356",NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",339,NA,NA,NA,NA,"NC",420.030904244926,376,44000,53468,11.6,73.9,14.4,0.4287
+"509","WAKE FOREST","2","48062","No","No","No","Yes","Yes","15691","15961","15691","Curbside","Curbside","None","Curbside","Yes",NA,"No",12946.36,3583.56,2717,0,-20.8600000000001,"NC",2663.19078126216,15734,100162,112322,2.9,41.7,55.5,0.3664
+"510","WALKERTOWN","2","5702","No","No","No","Yes","No","2248","2248",NA,"Curbside","Curbside","None","None","Yes",NA,"No",1429,215,NA,NA,NA,"NC",851.247291738272,2053,48494,61290,10.8,62.5,26.7,0.4106
+"511","WALLACE","2","3384","No","No","No","No","Yes","1260",NA,"1260","None","Curbside","None","None","Yes",NA,"No",4452.8,NA,NA,NA,176.23,"NC",1102.30861921208,1554,40645,52325,25.8,57,17.1,0.4043
+"512","WALLBURG","2","3056","No","No","No","No","No",NA,NA,NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",546.634282432978,1223,74122,83827,3,65.7,31.3,0.3566
+"513","WALNUT COVE","2","1584","No","No","No","No","Yes","574","574",NA,"Curbside","Curbside","None","None","Yes",NA,"No",NA,62.23,NA,NA,NA,"NC",628.005370362577,904,37453,46442,7.9,76.3,15.7,0.4373
+"514","WALNUT CREEK","2","1081","No","No","No","Yes","No",NA,"465",NA,"Curbside","Curbside","Backyard","Dropoff","No",NA,"No",NA,118.7,NA,NA,0,"NC",508.506196320501,NA,NA,NA,NA,NA,NA,NA
+"515","WALSTONBURG","2","193","No","No","No","Yes","Yes","110","103","110","Dropoff","Curbside","None","Curbside","Yes",NA,"No",113.78,2.61,10.15,0,0.85,"NC",474.298284756668,81,44375,53691,14.1,69.2,16.7,0.3916
+"516","WARRENTON","2","849","No","No","No","Yes","Yes","476",NA,NA,"None","Curbside","None","Dropoff","No",NA,"No",301,NA,0,229.79,-4,"NC",782.483216463677,540,38500,54980,16,56.3,27.7,0.4797
+"517","WARSAW","2","2709","Yes","No","No","No","Yes","1200","350","1200","Curbside","Curbside","None","Curbside","Yes",NA,"No",2331.21,19.27,866,0,0,"NC",850.154743702633,1153,28589,40685,22.1,67.7,10.1,0.3982
+"518","WASHINGTON","2","9848","Yes","Yes","No","No","Yes","4632","4632","4632","Curbside","Curbside","None","Curbside","Yes",NA,"No",7867.17,271.03,0,1248,0,"NC",1202.48364738187,4193,37109,57896,13.8,64.4,21.9,0.5387
+"519","WASHINGTON PARK","2","391","No","No","No","Yes","No","217",NA,"217","None","Curbside","None","Curbside","No",NA,"No",207.43,NA,0,207.43,-26.73,"NC",1480.55794921746,292,80893,89226,4.6,39.7,55.7,0.3997
+"520","WATHA","2","181","No","No","No","Yes","Yes","92","92",NA,"Dropoff","Drop-off","None","None","No",NA,"No",115,3.07,NA,NA,NA,"NC",133.113851060906,93,35179,44701,14.3,74.8,10.8,0.3962
+"521","WAXHAW","2","20622","No","No","No","Yes","No","6642","2000","6642","Curbside","Curbside","None","Curbside","Yes",NA,"No",7292,1544,609,0,0,"NC",1703.93122920363,4874,116964,131656,2.6,42.9,54.6,0.3572
+"522","WAYNESVILLE","2","10144","Yes","No","No","Yes","Yes","4543","4543","4543","Curbside","Curbside","None","Curbside","No",NA,"No",2793.09,520,NA,NA,2000,"NC",1145.7332194883,4675,40911,57822,17.9,54.1,28,0.4662
+"523","WEAVERVILLE","2","4580","No","No","No","Yes","Yes","2055","2055","2055","Curbside","Curbside","None","Curbside","No",NA,"No",1443,532,783,0,0,"NC",1190.09366481787,1818,71806,88748,2.8,38.4,58.9,0.3831
+"524","WEBSTER","2","372","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",372.80493277021,124,51250,74300,1.9,41.9,56.2,0.5174
+"525","WEDDINGTON","2","13237","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",755.218420245728,3423,144718,192966,4.5,33.4,62.1,0.4093
+"526","WELDON","2","1437","No","No","No","Yes","Yes","757",NA,"757","None","Curbside","None","Curbside","Yes",NA,"No",941,NA,NA,NA,347,"NC",492.799288927321,624,38333,52513,17.7,60.2,22.1,0.4433
+"527","WENDELL","2","9901","No","No","No","No","Yes","4353","4307","4307","Both","Curbside","None","Curbside","Yes",NA,"No",3866.06,567.87,315.49,0,0,"NC",1718.94187579674,2830,62857,80594,9.1,61.4,29.6,0.4056
+"528","WENTWORTH","2","2664","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",187.706623503666,979,56685,62838,17,68.6,14.4,0.4009
+"529","WESLEY CHAPEL","2","8718","No","No","No","No","No",NA,NA,NA,"None","None","None","None","No",NA,"No",NA,NA,NA,NA,NA,"NC",901.692500520956,NA,NA,NA,NA,NA,NA,NA
+"530","WEST JEFFERSON","2","1335","No","No","No","No","No","609",NA,NA,"None","Curbside","None","Curbside","No",NA,"No",466.18,NA,65,0,NA,"NC",596.978143462311,640,32273,46497,17.4,70.5,12.2,0.425
+"531","WHISPERING PINES","2","5007","No","No","No","Yes","No","1609","1609","1609","Curbside","Curbside","None","Curbside","No",NA,"No",1371,315,628,0,0,"NC",1342.98463335591,NA,NA,NA,NA,NA,NA,NA
+"532","WHITAKERS","2","626","No","No","No","Yes","No",NA,NA,NA,"Curbside","Curbside","None","Curbside","No",NA,"No",NA,NA,NA,NA,NA,"NC",762.86084105815,259,32054,42102,24.5,64.3,11.3,0.4172
+"533","WHITE LAKE","2","837","Yes","No","No","No","Yes","1002","1002","883","Curbside","Curbside","None","Curbside","Yes",NA,"No",992.13,47.7,78.21,0,0,"NC",817.080529563809,437,51827,72426,15.2,55.5,29.3,0.5089
+"534","WHITEVILLE","2","4730","No","No","No","Yes","Yes","1712","1654","1712","Curbside","Curbside","None","Curbside","Yes",NA,"No",1959.29,201.06,967.36,0,-193.45,"NC",853.332629461624,2060,31772,51101,9,67.8,23.1,0.5081
+"535","WHITSETT","2","585","No","No","No","Yes","Yes","282","282",NA,"Curbside","Curbside","None","None","Yes",NA,"No",275.72,65.27,NA,NA,NA,"NC",226.389916981092,292,56500,72901,8,67.5,24.5,0.4049
+"536","WILKESBORO","2","3680","No","No","No","Yes","No","1338","798",NA,"Both","Curbside","None","Curbside","Yes",NA,"No",1365,136.23,NA,NA,180,"NC",582.707513068458,1415,36314,51465,19.9,54.3,25.7,0.4527
+"537","WILLIAMSTON","2","5225","No","No","No","Yes","No","5488",NA,"5488","None","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,1364,"NC",1158.23776357449,2183,36458,57934,18.3,65.7,16,0.5695
+"538","WILMINGTON","2","115465","Yes","No","Yes","No","Yes","28870","28870","28870","Curbside","Curbside","Backyard","Curbside","Yes",NA,"Yes",29932,7232,9103.08,0,-0.0799999999999272,"NC",2246.1780570304,53830,51137,77843,7,49.1,43.9,0.5254
+"539","WILSON","2","47769","No","No","No","Yes","Yes","21205","21205","21205","Curbside","Curbside","None","Curbside","Yes",NA,"No",24275,1958,11394,0,-1200,"NC",1539.24955634291,19463,43126,59757,18.3,58.9,22.8,0.4858
+"540","WINDSOR","2","3573","No","No","No","Yes","Yes","1063","276","1063","Curbside","Curbside","None","Curbside","Yes",NA,"No",2254,10.2,NA,NA,15,"NC",1269.06610754719,1054,32311,52015,27.5,56.8,15.7,0.6004
+"541","WINFALL","2","553","No","No","No","Yes","Yes","201","201","0","Curbside","Curbside","None","None","No",NA,"No",NA,32.86,NA,NA,0,"NC",239.637087692699,359,NA,87054,11,72.7,16.3,0.472
+"542","WINGATE","2","4065","No","No","No","No","Yes","809","809","809","Curbside","Curbside","None","Curbside","Yes",NA,"No",712.4,192.14,169,0,0,"NC",1821.63122824041,1050,52672,67973,18.9,54.3,26.8,0.4874
+"543","WINSTON-SALEM","2","249986","Yes","Yes","No","Yes","No","81589","81589","81589","Both","Curbside","None","Curbside","Yes",NA,"No",73400.55,11439.88,NA,NA,37889.1,"NC",1884.16166445693,96611,47269,71747,12.1,53.7,34.2,0.5091
+"544","WINTERVILLE","2","10450","No","No","No","Yes","Yes",NA,NA,NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",NA,NA,NA,NA,NA,"NC",2127.92079925333,4143,68525,90727,6.4,48.1,45.6,0.4502
+"545","WINTON","2","623","No","No","No","No","No","287",NA,NA,"None","Curbside","None","None","No",NA,"No",307,NA,NA,NA,NA,"NC",740.537954696944,296,40341,44392,20.2,62.7,17.1,0.4427
+"546","WOODFIN","2","7957","No","No","No","Yes","No","3100","2400","3100","Curbside","Curbside","None","Curbside","No",NA,"No",1928.37,554.89,NA,NA,2806,"NC",865.77396382081,2495,50794,76670,14.5,48.5,37,0.5077
+"547","WOODLAND","2","550","No","No","No","Yes","No",NA,NA,"785","None","Curbside","None","Curbside","No",NA,"No",NA,NA,NA,NA,10.2,"NC",439.458549001164,358,37083,44801,12.5,73.7,13.8,0.4921
+"548","WRIGHTSVILLE BEACH","2","2473","Yes","No","Yes","No","Yes","2802","2802","2802","None","Curbside","None","Curbside","Yes",NA,"No",3936.88,41.87,114.82,0,0,"NC",1773.27932689786,1177,105707,150179,1.9,29.9,68.1,0.5013
+"549","YADKINVILLE","2","2993","No","Yes","No","Yes","Yes","1018","1018",NA,"Curbside","Curbside","None","Curbside","Yes",NA,"No",909.52,173.49,150,0,NA,"NC",1021.32192263583,1174,39643,49759,15.1,70.5,14.4,0.3867
+"550","YANCEYVILLE","2","1934","No","No","No","Yes","Yes","615",NA,NA,"None","Curbside","None","None","No",NA,"No",530,NA,NA,NA,NA,"NC",279.206629010943,1208,22892,31099,24.7,67.3,8,0.4485
+"551","YOUNGSVILLE","2","2026","No","No","No","No","Yes","528","274","528","Curbside","Curbside","None","Curbside","Yes",NA,"No",371.58,27.5,0,102.51,0,"NC",1105.00236938252,905,55972,73178,11.6,60.4,28.1,0.3949
+"552","ZEBULON","2","6969","No","No","No","Yes","Yes","2746","2720","2746","Curbside","Curbside","Backyard","Curbside","Yes",NA,"Yes",2509.97,342.69,NA,NA,1783.6,"NC",1328.41437998755,1958,39963,58238,30.5,49.6,20,0.457

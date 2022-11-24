@@ -1,0 +1,39 @@
+"","state","Municipality","HHServed","SolidWasteTons","CurbsideFee","SwapShop","DropoffFee","Is leaf & yard waste accepted?","ProvideCompostBins","PAYT/SMART","SchoolService","MunicipalService","BusinessService","TrashServiceType","RecyclingServiceType","ProvideTrashCart","ProvRecycleBinorCart","FoodServiceType","RecyclingTons"
+"1","RI","Barrington",6024,6032,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Both","No","Yes","No",6164
+"2","RI","Bristol",8700,8277,"No","No","Yes","Yes","No","No","Recycling only","Both trash and recycling","Both trash and recycling","Both","Both","Yes","Yes",NA,4308
+"3","RI","Burrillville",5862,4752,"No","No","No","Yes","No","Yes","Both trash and recycling","Both trash and recycling","No","Curbside","Both","Yes","Yes","No",2719
+"4","RI","Central Falls",5293,6178,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Curbside","Yes","Yes","No",1894
+"5","RI","Charlestown",1865,739,"No","No","Yes","Yes","Yes","Yes","No","Both trash and recycling","No","Drop-off","Drop-off","No","Yes","No",535
+"6","RI","Coventry",13811,11536,"No","Yes","Yes","Yes","Yes","No","Both trash and recycling","Both trash and recycling","No","Both","Both","Yes","Yes","No",6687
+"7","RI","Cranston",29205,26823,"No","No","No","Yes","No","Yes","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","Yes","Yes","No",14974
+"8","RI","Cumberland",12921,11263,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","Yes","Yes","Drop-off",6003
+"9","RI","East Greenwich",4270,4671,"No","No","No","Yes","Yes","No","Both trash and recycling","Both trash and recycling","Recycling only","Both","Both","No","Yes","No",2922
+"10","RI","East Providence",16840,14986,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Both","Yes","Yes",NA,16811
+"11","RI","Exeter",2248,1983,"No","Yes","Yes","Yes","No","No","No","Both trash and recycling","No","Both","Both","No","Yes","No",1035
+"12","RI","Foster",1575,1928,"No","No","No","No","No","No","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Curbside","No","Yes",NA,648
+"13","RI","Glocester",4106,2742,"No","Yes","No","Yes","No","No","Recycling only","Both trash and recycling","Recycling only","Drop-off","Drop-off","No","Yes","No",1383
+"14","RI","Jamestown",960,2206,"No","No","Yes","Yes","No","No","Recycling only","Recycling only","No","Both","Curbside","No","Yes","Drop-off",1530
+"15","RI","Johnston",10484,17351,"No",NA,"No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","No","Yes",NA,3570
+"16","RI","Lincoln",6000,7730,"No",NA,"No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","No","Yes","No",2935
+"17","RI","Little Compton",2502,1896,"No","Yes","Yes","Yes","Yes","No","Recycling only","Both trash and recycling","No","Both","Both","No","Yes","No",819
+"18","RI","Middletown",4545,3009,"Yes",NA,"No","Yes","Yes","Yes","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","Yes","Yes","No",2430
+"19","RI","Narragansett",7977,4850,"No","Yes","No","Yes","No","Yes","No","Both trash and recycling","No","Both","Both","No","Yes","Drop-off",3277
+"20","RI","New Shoreham",858,3253,"No","Yes","No","Yes","Yes","Yes","Both trash and recycling","Both trash and recycling","Both trash and recycling","Drop-off","Drop-off","No","Yes","Drop-off",978
+"21","RI","Newport",10100,6504,"No","No","No","Yes","Yes","Yes","Both trash and recycling","Both trash and recycling","Recycling only","Both","Both","Yes","Yes","Both",4684
+"22","RI","North Kingstown",10486,6674,"No","No","No","Yes","No","Yes","No","Recycling only","Both trash and recycling","Both","Both","No","Yes","No",5941
+"23","RI","North Providence",12545,10986,"No","Yes","No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","Yes","Yes",NA,5249
+"24","RI","North Smithfield",4100,3508,"No","No","No","Yes","No","Yes","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Curbside","No","Yes","Drop-off",2168
+"25","RI","Pawtucket",30000,27473,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","Recycling only","Both","Curbside","Yes","Yes","No",9989
+"26","RI","Portsmouth",2566,1648,"No","No","Yes","Yes","Yes","Yes","No","Recycling only","No","Drop-off","Drop-off","No","Yes","Curbside",1923
+"27","RI","Providence",55000,70917,"No","No","No","Yes","Yes","Yes","Trash only","Both trash and recycling","No","Curbside","Curbside","Yes","Yes","No",12739
+"28","RI","Richmond",2500,1428,"No","Yes","No","No","No","Yes","No","Both trash and recycling","Recycling only","Both","Both","No","Yes",NA,1134
+"29","RI","Scituate",3756,3900,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","No","Yes","No",1629
+"30","RI","Smithfield",7465,5984,"No","No","No","Yes","Yes","No","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Both","Yes","Yes","No",4646
+"31","RI","South Kingstown",9380,5048,"No","Yes","No","Yes","No","Yes","No","No","No","Both","Both","No","Yes","No",4858
+"32","RI","Tiverton",6525,6642,"No","No","No","Yes","Yes","Yes","Both trash and recycling","Both trash and recycling","No","Both","Both","No","Yes","No",2643
+"33","RI","Warren",4995,4240,"No","No","Yes","Yes","No","No","Recycling only","Recycling only","Both trash and recycling","Both","Both","Yes","Yes","No",2481
+"34","RI","Warwick",31716,28111,"No","No","No","Yes","No","No","Both trash and recycling","Both trash and recycling","No","Curbside","Curbside","Yes","Yes",NA,26667
+"35","RI","West Greenwich",1000,1384,"No","No","Yes","Yes","No","No","No","No","No","Both","Both","No","Yes","No",679
+"36","RI","West Warwick",10000,10318,"No","No","No","Yes","Yes","No","Both trash and recycling","Both trash and recycling","No","Curbside","Both","Yes","Yes","No",4456
+"37","RI","Westerly",9600,15585,"No","No","No","Yes","Yes","Yes","No","Both trash and recycling","No","Both","Both","No","Yes",NA,8070
+"38","RI","Woonsocket",10421,9800,"No","Yes","No","Yes","Yes","No","Both trash and recycling","Both trash and recycling","Recycling only","Curbside","Both","Yes","Yes","No",4680
