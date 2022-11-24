@@ -12,7 +12,7 @@ rm(list = ls())
 
 `%notin%` <- Negate(`%in%`)
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/NC/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/NC/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 
 ### Waste Data --------------------
@@ -173,7 +173,7 @@ nc$State <- "NC"
 
 ### Population Density + Census Data --------------------
 
-setwd("~/Desktop/Trash Data Project OOS/Data/Census Data/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/Census Data/")
 
 # load in the data that contains the land areas of each of the municipalities
 

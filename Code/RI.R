@@ -11,7 +11,7 @@ library(pdftools)
 
 rm(list = ls())
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/RI/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/RI/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 
 ### Trash Numbers --------------------

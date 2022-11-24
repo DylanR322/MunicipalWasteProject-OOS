@@ -11,7 +11,7 @@ library(pdftools)
 
 rm(list = ls())
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/FL/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/FL/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 
 
@@ -189,7 +189,7 @@ fldta <- merge(waste, policy, by = "County")
 ### Census Data --------------------
 # now to add the census data, which is separate because it is at the county level
 
-setwd("~/Desktop/Trash Data Project OOS/Data/Census Data/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/Census Data/")
 
 census <- import("FLCountyData.csv")
 census.orig <- census

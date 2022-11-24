@@ -22,7 +22,7 @@ options(scipen = 50) #prevent scientific notation
 
 `%notin%` <- Negate(`%in%`)
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Files/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS//Files/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 
 ### Creating Variables --------------------
@@ -244,8 +244,6 @@ bptest(swapwph) # passes
 
 ### Analysis --------------------
 
-setwd("~/Desktop/Trash Data Project OOS/Figures/") # ensure it outputs to the right place
-
 # change median income to be by 10k changes
 
 data$MedIncome10k <- data$MedIncome / 10000
@@ -425,3 +423,4 @@ reactable(Rates,
             Freq = colDef(name = "Number of Municipalities")), compact = TRUE, bordered = TRUE, pagination = FALSE)              
 
 # That's all!
+

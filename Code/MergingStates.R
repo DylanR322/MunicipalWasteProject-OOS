@@ -14,7 +14,7 @@ rm(list = ls())
 
 `%notin%` <- Negate(`%in%`)
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/CleanStateData/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/CleanStateData/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 
 ### MA + RI --------------------
@@ -35,7 +35,7 @@ dta <- bind_rows(dta, me)
 
 ### (MA, RI, ME) + Census Data --------------------
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/Census Data/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/Census Data/")
 
 marime <- import("MARIMECityData.csv")
 
@@ -95,7 +95,7 @@ dta <- separate(dta, id,
 
 ### (MA, RI, ME) + FL --------------------
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/CleanStateData/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/CleanStateData/")
 
 fl <- import("fl.csv")
 fl <- fl[, -1] # drop V1

@@ -9,7 +9,7 @@ library(stringr)
 
 rm(list = ls())
 
-setwd("~/Desktop/GitHub/Trash Data Project OOS/Data/ME/")
+setwd("~/Desktop/GitHub/MunicipalWasteProject-OOS/Data/ME/")
 # NOTE: If running this code on a different computer or with different file structure, adjust your working directory accordingly.
 # NOTE: The Maine data is not included in the final analysis. This script is included to allow the other scripts to run, and also
 # as a resource if the Maine data is ever updated. 
